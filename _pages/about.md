@@ -17,9 +17,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am currently at Artificial Intelligence Research Institute of Soochow University, advised by [Assoc. Prof. Juntao Li(李俊涛)](https://lijuntaopku.github.io/) and [Prof. Min Zhang(张民)](https://scholar.google.com/citations?hl=zh-CN&user=CncXH-YAAAAJ).
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+Before this, I received my Bachelor’s degree (2018-2022, computer science) from Soochow University.
+
+I am currently working as a research intern at [Shanghai AI Laboratory](https://www.shlab.org.cn/) General Technology Research under the mentorship of [Xiaoye Qu(瞿晓晔)](https://scholar.google.com/citations?user=rT3hqdcAAAAJ&hl=zh-CN) and [Yu Cheng(成宇)](https://scholar.google.com/citations?user=ORPxbV4AAAAJ&hl=zh-CN).
+
+
+🤔 My research interests include Knowledge-Augmented LLM, Model's Generalization and Robustness, and Foundation Models, and I am actively exploring these areas of research …
+
+
 
 
 # 🔥 News
