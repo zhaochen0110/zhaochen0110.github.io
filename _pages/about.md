@@ -30,8 +30,8 @@ I am currently working as a research intern at [Shanghai AI Laboratory](https://
 
 
 # 🔥 News
-- *2023.10*: &nbsp;🎉🎉 One paper is accepted by EMNLP 2023.
-- *2022.10*: &nbsp;🎉🎉 One paper is accepted by EMNLP 2022.
+- *2023.10*: &nbsp;🎉🎉 One paper is accepted by EMNLP 2023!
+- *2022.10*: &nbsp;🎉🎉 One paper is accepted by EMNLP 2022!
 
 # 📝 Publications 
 
