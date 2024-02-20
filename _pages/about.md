@@ -40,7 +40,7 @@ I am currently working as a research intern at [Shanghai AI Laboratory](https://
 - ``EMNLP 2022`` [Improving Temporal Generalization of Pre-trained Language Models with Lexical Semantic Change](https://aclanthology.org/2022.emnlp-main.428.pdf), **Zhaochen Su**, Zecheng Tang, Xinyan Guan, Lijun Wu, Min Zhang, Juntao Li
 
 # 🎖 Honors and Awards
-- Soochow University Graduate Outstanding Scholarship~(Rank 1st)
+- Soochow University Graduate Outstanding Scholarship (Rank 1st)
 - The Samsung Scholarship
 
 # 📖 Educations
