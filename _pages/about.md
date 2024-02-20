@@ -35,11 +35,9 @@ I am currently working as a research intern at [Shanghai AI Laboratory](https://
 
 # 📝 Publications 
 ## 📚 Temporal Generalization
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2023</div>
-[Efficient Continue Training of Temporal Language Model with Structural Information](https://aclanthology.org/2023.findings-emnlp.418.pdf), **Zhaochen Su**, Juntao Li, Zikang Zhang, Zihan Zhou, Min Zhang
+- ``EMNLP 2023`` [Efficient Continue Training of Temporal Language Model with Structural Information](https://aclanthology.org/2023.findings-emnlp.418.pdf), **Zhaochen Su**, Juntao Li, Zikang Zhang, Zihan Zhou, Min Zhang
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2022</div>
-[Improving Temporal Generalization of Pre-trained Language Models with Lexical Semantic Change](https://aclanthology.org/2022.emnlp-main.428.pdf), **Zhaochen Su**, Zecheng Tang, Xinyan Guan, Lijun Wu, Min Zhang, Juntao Li
+- ``EMNLP 2022`` [Improving Temporal Generalization of Pre-trained Language Models with Lexical Semantic Change](https://aclanthology.org/2022.emnlp-main.428.pdf), **Zhaochen Su**, Zecheng Tang, Xinyan Guan, Lijun Wu, Min Zhang, Juntao Li
 
 # 🎖 Honors and Awards
 - Soochow University Graduate Outstanding Scholarship~(Rank 1st)
