@@ -47,7 +47,7 @@ I am currently working as a research intern at [Shanghai AI Laboratory](https://
 - *2022.09 - current*, Second-year Master, Artificial Intelligence Research Institute, Soochow University, Suzhou.
 - *2018.09 - 2022.06*, Bachelor, Institute of Computer Science and Technology, Soochow University, Suzhou.
 
-# 🧑‍💼 Volunteer &amp Student organization
+# 🧑‍💼 Volunteer & Student organization
 - *2023.09 - current*, Soochow University Graduate Student Union - President
 - *2020.05 - 2021.05*, Students’ International Communication Association (SICA) - President
 
@@ -58,4 +58,4 @@ I am currently working as a research intern at [Shanghai AI Laboratory](https://
 
 
 # 🎨 Miscellaneous
-I have a wide range of interests in sports, music, photography, and reading. Without any special circumstances, I exercise for 1 hour every day. Recently, I am particularly fond of tennis, cross-fit, and swimming. I also have a strong interest in philosophy. The blog I created about [Marx. Weber](https://zhihu.com/question/31833873/answer/2516624337) has received over 11k views. Additionally, I am passionate about R&ampB and Jazz. If you share similar hobbies, please feel free to reach out and connect!
+I have a wide range of interests in sports, music, photography, and reading. Without any special circumstances, I exercise for 1 hour every day. Recently, I am particularly fond of tennis, cross-fit, and swimming. I also have a strong interest in philosophy. The blog I created about [Marx. Weber](https://zhihu.com/question/31833873/answer/2516624337) has received over 11k views. Additionally, I am passionate about R&B and Jazz. If you share similar hobbies, please feel free to reach out and connect!
