@@ -54,7 +54,7 @@ I am currently working as a research intern at [Shanghai AI Laboratory](https://
 
 # 💻 Internships
 - *2023.11 - current*, [Shanghai AI Laboratory](https://www.shlab.org.cn/), China.
-- *2020.06 - 2020.09*, [World Heritage Institute of Training and Research for the Asia and the Pacific Region under the auspices of UNESCO](http://www.whitr-ap.org/), China.
+- *2021.06 - 2021.09*, [World Heritage Institute of Training and Research for the Asia and the Pacific Region under the auspices of UNESCO](http://www.whitr-ap.org/), China.
 
 
 # 🎨 Miscellaneous
