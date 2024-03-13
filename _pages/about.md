@@ -47,7 +47,7 @@ I am currently working as a research intern at [Shanghai AI Laboratory](https://
 # 🎖 Honors and Awards
 - Soochow University Graduate Outstanding Scholarship (Rank 1st)
 - The Samsung Scholarship
-- "China Software Cup" National College Student Software Design Competition -- First Prize (National Level, Team Leader)
+- China Software Design Competition -- First Prize (National Level, Team Leader)
 - Chinese Collegiate Computing Competition -- Second Prize (National Level, Team Leader)
 
 # 📖 Educations
