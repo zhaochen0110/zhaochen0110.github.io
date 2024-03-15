@@ -26,7 +26,7 @@ I am currently working as a research intern at [Shanghai AI Laboratory](https://
 
 
 
-🤔 My research interests primarily revolve around a range of problem related to ***"time"***, including, but not limited to:
+🤔 My research interests primarily revolve around a range of problems related to ***"time"***, including, but not limited to:
 - **Temporal Adaptation and Generalization:** Investigating strategies to update LLMs for enhanced temporal adaptation, aiming to improve their ability to generalize to future contexts and ensure robustness in the temporal dimension.
 - **Impact of Temporal Knowledge Dynamics:** Exploring the effects of temporal knowledge becoming outdated and the subsequent updating process in the parametric memory of LLMs. How do these updates influence or lead to hallucination within the model?
 - **Temporal Reasoning in LLMs:** Enhancing LLMs' comprehension of time, including basic temporal concepts understanding (e.g., duration, frequency) and intricate temporal interpretations and computations (e.g., causality, arithmetic).
