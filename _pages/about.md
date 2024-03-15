@@ -23,13 +23,17 @@ Before this, I received my Bachelor’s degree (2018-2022, computer science) fro
 
 I am currently working as a research intern at [Shanghai AI Laboratory](https://www.shlab.org.cn/) General Technology Research under the mentorship of [Xiaoye Qu(瞿晓晔)](https://scholar.google.com/citations?user=rT3hqdcAAAAJ&hl=zh-CN) and [Yu Cheng(成宇)](https://scholar.google.com/citations?user=ORPxbV4AAAAJ&hl=zh-CN).
 
+
+
+
+🤔 My research interests primarily revolve around a range of problem related to ***"time"***, including, but not limited to:
+- Investigating strategies for updating Large Language Models (LLMs) to better facilitate temporal adaptation, aiming to significantly improve the models' temporal generalization capabilities.
+- Exploring the effects of temporal knowledge becoming outdated and the subsequent updating process in the parametric memory of LLMs. How do these updates influence or lead to hallucination within the model?
+- Enhancing LLM' comprehension of time, including basic temporal concepts understanding (e.g., duration, frequency) and intricate temporal interpretations and computations (e.g., causality, arithmetic).
+
 *Can the progress of civilization, the advancement of technology truly transcend time? Or are we just endlessly persuing the elusive dust in the hourglass?*
 
-
-🤔 My research interests include LLM interpretability and analysis, LLM's Generalization and Robustness, and I am actively exploring these areas of research …
-
-
-
+📖 Recently, I develop a fascination with analyses concerning the interpretability of LLMs. If you're interested in discussing these topics or are considering collaboration, feel free to drop me a message!
 
 # 🔥 News
 - *2023.10*: &nbsp;🎉🎉 One paper is accepted by EMNLP 2023!
