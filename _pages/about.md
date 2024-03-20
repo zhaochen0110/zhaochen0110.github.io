@@ -64,6 +64,9 @@ I am currently working as a research intern at [Shanghai AI Laboratory](https://
 - *2023.09 - current*, Soochow University Graduate Student Union - President
 - *2020.05 - 2021.05*, Students’ International Communication Association (SICA) - President
 
+# 💁 Service
+- Reviewer: ARR, ACL
+
 
 # 💻 Internships
 - *2023.11 - current*, [Shanghai AI Laboratory](https://www.shlab.org.cn/), China.
