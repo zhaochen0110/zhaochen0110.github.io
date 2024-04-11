@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently at Artificial Intelligence Research Institute of Soochow University, advised by [Assoc. Prof. Juntao Li(李俊涛)](https://lijuntaopku.github.io/) and [Prof. Min Zhang(张民)](https://scholar.google.com/citations?hl=zh-CN&user=CncXH-YAAAAJ).
+I am currently at the Artificial Intelligence Research Institute of Soochow University, advised by [Assoc. Prof. Juntao Li(李俊涛)](https://lijuntaopku.github.io/) and [Prof. Min Zhang(张民)](https://scholar.google.com/citations?hl=zh-CN&user=CncXH-YAAAAJ).
 
 Before this, I received my Bachelor’s degree (2018-2022, computer science) from Soochow University.
 
@@ -28,10 +28,10 @@ I am currently working as a research intern at [Shanghai AI Laboratory](https://
 
 🤔 My research interests are primarily focused on exploring various challenges related to the dynamic of **"time"** in machine learning. Currently, my main focus is on Large Language Models (LLMs), covering the following topics:
 - **Temporal Adaptation and Generalization:** Investigating strategies to update LLMs for enhanced temporal adaptation, aiming to improve their ability to generalize to future contexts and ensure robustness in the temporal dimension.
-- **Impact of Temporal Knowledge Dynamics:** Exploring the effects of temporal knowledge becoming outdated and the subsequent updating process in the parametric memory of LLMs. How do these updates influence or lead to hallucination within the model?
+- **Impact of Temporal Knowledge Dynamics:** Exploring the effects of temporal knowledge becoming outdated and the subsequent updating process in the parametric memory of LLMs. How do these updates influence or lead to hallucinations within the model?
 - **Temporal Reasoning in LLMs:** Enhancing LLMs' comprehension of time, including basic temporal concepts understanding (e.g., duration, frequency) and intricate temporal interpretations and computations (e.g., causality, arithmetic).
 
-📖 *Can the progress of civilization, the advancement of technology truly transcend time? Or are we just endlessly persuing the elusive dust in the hourglass?*
+📖 *Can the progress of civilization, and the advancement of technology truly transcend time? Or are we just endlessly pursuing the elusive dust in the hourglass?*
 
 🤝 Recently, I develop a fascination with analyses concerning the interpretability of LLMs. If you're interested in discussing these topics or are considering collaboration, feel free to drop me a message!
 
@@ -44,6 +44,8 @@ I am currently working as a research intern at [Shanghai AI Laboratory](https://
 - ``EMNLP 2023`` [Efficient Continue Training of Temporal Language Model with Structural Information](https://aclanthology.org/2023.findings-emnlp.418.pdf), **Zhaochen Su**, Juntao Li, Zikang Zhang, Zihan Zhou, Min Zhang
 
 - ``EMNLP 2022`` [Improving Temporal Generalization of Pre-trained Language Models with Lexical Semantic Change](https://aclanthology.org/2022.emnlp-main.428.pdf), **Zhaochen Su**, Zecheng Tang, Xinyan Guan, Lijun Wu, Min Zhang, Juntao Li
+
+- ``Under Review`` Timo: Towards Better Temporal Reasoning for Language Models
 
 - ``Under Review`` Living in the Moment: Can Large Language Models Grasp Co-Temporal Reasoning?
 
@@ -67,7 +69,7 @@ I am currently working as a research intern at [Shanghai AI Laboratory](https://
 
 
 # 💻 Internships
-- *2023.11 - current*, [Shanghai AI Laboratory](https://www.shlab.org.cn/), China.
+- *2023.10 - current*, [Shanghai AI Laboratory](https://www.shlab.org.cn/), China.
 - *2021.06 - 2021.09*, [World Heritage Institute of Training and Research for the Asia and the Pacific Region under the auspices of UNESCO](http://www.whitr-ap.org/), China.
 
 
