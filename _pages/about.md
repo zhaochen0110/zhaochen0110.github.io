@@ -75,4 +75,9 @@ I am currently working as a research intern at [Shanghai AI Laboratory](https://
 
 
 # 🎨 Miscellaneous
-I have a wide range of interests in sports, music, photography, and reading. Without any special circumstances, I exercise for 1 hour every day. Recently, I am particularly fond of tennis, cross-fit, and swimming. I also have a strong interest in philosophy. The blog I created about [Marx. Weber](https://zhihu.com/question/31833873/answer/2516624337) has received over 11k views. Additionally, I am passionate about R&B and Jazz. If you share similar hobbies, please feel free to reach out and connect!
+I have a wide range of interests in sports, reading, and photography:
+- Without any special circumstances, I exercise for **1 hour** every day. Here are some of my favorite sports and personal achievements: 🏋️ fitness (Progressive Overload (PR): bench press 98.5 kg, squat 140 kg, deadlift 135 kg), 🏓 table tennis (amateur intermediate), 🎾 tennis (skill level: 2.5), 🏃 running (5 km/h, 10 km pace), 🚴 cycling (25 km/h, 50 km pace).
+- In my leisure time, I immerse myself in philosophical literature and lectures, with a primary focus on **temporality**. I ponder over various philosophical perspectives, contemplating whether time is an absolute reality or a construct of human perception. This exploration fuels my curiosity and deepens my understanding of the nature of existence.
+- Photography is an important hobby for me. I own a Fujifilm XS-10, which was a birthday gift from my family when I turned 22. My favorite lens is the fixed 35mm, and I love taking it out for street photography, capturing humanistic landscapes. Sometimes, I share my photos on WeChat.
+
+If you share similar hobbies, please feel free to reach out and connect!
