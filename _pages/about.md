@@ -42,13 +42,13 @@ I am currently working as a research intern at [Shanghai AI Laboratory](https://
 
 # 📝 Publications 
 
-- ``ACL 2024`` Living in the Moment: Can Large Language Models Grasp Co-Temporal Reasoning?, **Zhaochen Su**, Juntao Li, Jun Zhang, Tong Zhu, Xiaoye Qu, Pan Zhou, Yan Bowen, Yu Cheng, Min zhang
+- ``ACL 2024`` Living in the Moment: Can Large Language Models Grasp Co-Temporal Reasoning? (Average: 4, Top 2% in ARR Feb 2024), **Zhaochen Su**, Juntao Li, Jun Zhang, Tong Zhu, Xiaoye Qu, Pan Zhou, Yan Bowen, Yu Cheng, Min zhang
 
 - ``EMNLP 2023`` [Efficient Continue Training of Temporal Language Model with Structural Information](https://aclanthology.org/2023.findings-emnlp.418.pdf), **Zhaochen Su**, Juntao Li, Zikang Zhang, Zihan Zhou, Min Zhang
 
 - ``EMNLP 2022`` [Improving Temporal Generalization of Pre-trained Language Models with Lexical Semantic Change](https://aclanthology.org/2022.emnlp-main.428.pdf), **Zhaochen Su**, Zecheng Tang, Xinyan Guan, Lijun Wu, Min Zhang, Juntao Li
 
-- ``submission to COLM-24 (avergae: 6.3)`` Timo: Towards Better Temporal Reasoning for Language Models,
+- ``submission to COLM-24 (Avergae: 6.3)`` Timo: Towards Better Temporal Reasoning for Language Models,
 
 - ``submission to Neurips-24`` ConflictBank: A Benchmark for Evaluating Knowledge Conflicts in Large Language Models
 
