@@ -48,9 +48,11 @@ I am currently working as a research intern at [Shanghai AI Laboratory](https://
 
 - ``EMNLP 2022`` [Improving Temporal Generalization of Pre-trained Language Models with Lexical Semantic Change](https://aclanthology.org/2022.emnlp-main.428.pdf), **Zhaochen Su**, Zecheng Tang, Xinyan Guan, Lijun Wu, Min Zhang, Juntao Li
 
-- ``Under Review`` Timo: Towards Better Temporal Reasoning for Language Models, 
+- ``submission to COLM-24 (avergae: 6.3)`` Timo: Towards Better Temporal Reasoning for Language Models,
 
-- ``Under Review`` Language Model Adaptation as Lexical Semantic Change Modeling
+- ``submission to Neurips-24`` ConflictBank: A Benchmark for Evaluating Knowledge Conflicts in Large Language Models
+
+- ``submission to AI-Journal`` Language Model Adaptation as Lexical Semantic Change Modeling
 
   
 # 🎖 Honors and Awards
