@@ -33,7 +33,7 @@ I am currently working as a research intern at [Shanghai AI Laboratory](https://
 
 📖 *Can the progress of civilization, and the advancement of technology truly transcend time? Or are we just endlessly pursuing the elusive dust in the hourglass?*
 
-🤝 Recently, I develop a fascination with analyses concerning the interpretability of LLMs. If you're interested in discussing these topics or are considering collaboration, feel free to drop me a message!
+🤝 **I'm looking for a PhD position in 2025 Fall. Don't hesitate to email me if there is a potential opportunity!**
 
 # 🔥 News
 - *2024.5*: &nbsp;🎉🎉 One paper is accepted by ACL 2024!
