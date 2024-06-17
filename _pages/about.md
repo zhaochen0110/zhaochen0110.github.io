@@ -65,11 +65,13 @@ I am currently working as a research intern at [Shanghai AI Laboratory](https://
 # 📖 Educations
 - *2022.09 - current*, Second-year Master, Artificial Intelligence Research Institute, Soochow University, Suzhou.
 - *2018.09 - 2022.06*, Bachelor, Institute of Computer Science and Technology, Soochow University, Suzhou.
+- *2021.07 - 2022.07*, Dual Degree, Brain Science, Soochow University, Suzhou.
 
 # 💁 Volunteer
 - Conference Reviewer: ARR, ACL, MM
 - *2023.09 - current*, Soochow University Graduate Student Union - President
 - *2020.05 - 2021.05*, Students’ International Communication Association (SICA) - President
+
 
 
 # 💻 Internships
