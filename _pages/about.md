@@ -36,7 +36,7 @@ I am currently working as a research intern at [Shanghai AI Laboratory](https://
 🤝 **I'm looking for a PhD position in 2025 Fall. Don't hesitate to email me if there is a potential opportunity!**
 
 # 🔥 News
-- *2024.6*: &nbsp;🎉🎉 Invited talk on temporal reasoning at NICE!
+- *2024.6*: &nbsp;🎉🎉 Invited talk on [temporal reasoning](https://www.bilibili.com/video/BV1SJ4m1u7Cg/?spm_id_from=333.337.search-card.all.click&vd_source=cb56bffcd72c8f46eaea59a666b85547) at NICE!
 - *2024.5*: &nbsp;🎉🎉 One paper is accepted by ACL 2024!
 - *2023.10*: &nbsp;🎉🎉 One paper is accepted by EMNLP 2023!
 - *2022.10*: &nbsp;🎉🎉 One paper is accepted by EMNLP 2022!
