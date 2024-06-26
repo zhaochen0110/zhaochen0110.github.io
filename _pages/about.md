@@ -27,9 +27,11 @@ I am currently working as a research intern at [Shanghai AI Laboratory](https://
 
 
 🤔 My research interests are primarily focused on exploring various challenges related to the dynamic of **"time"** in machine learning. Currently, my main focus is on Large Language Models (LLMs), covering the following topics:
-- **Temporal Adaptation and Generalization:** Investigating strategies to update LLMs for enhanced temporal adaptation, aiming to improve their ability to generalize to future contexts and ensure robustness in the temporal dimension.
-- **Impact of Temporal Knowledge Dynamics:** Exploring the effects of temporal knowledge becoming outdated and the subsequent updating process in the parametric memory of LLMs. How do these updates influence or lead to hallucinations within the model?
-- **Temporal Reasoning in LLMs:** Enhancing LLMs' comprehension of time, including basic temporal concepts understanding (e.g., duration, frequency) and intricate temporal interpretations and computations (e.g., causality, arithmetic).
+- **Adaptation and Generalization:** Focusing on the reasons behind model degradation in time and exploring the strategies to improve temporal generalization and update the knowledge without catastrophic forgetting of old knowledge.
+- **Trustworthiness and Reliability:** Investigation into the behavior of LLMs when encountering knowledge
+conflicts and exploring methods to mitigate knowledge conflicts of old knowledge as we update LLMs with new knowledge.
+- **Complex reasoning:** Research on equipping LLMs with human-level temporal reasoning and commonsense. This involves
+basic temporal concepts understanding and intricate temporal interpretations and computations.
 
 📖 *Can the progress of civilization, and the advancement of technology truly transcend time? Or are we just endlessly pursuing the elusive dust in the hourglass?*
 
