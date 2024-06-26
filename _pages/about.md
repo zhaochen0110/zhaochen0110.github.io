@@ -70,7 +70,7 @@ basic temporal concepts understanding and intricate temporal interpretations and
 - *2021.07 - 2022.07*, Dual Degree, Brain Science, Soochow University, Suzhou.
 
 # 💁 Volunteer
-- Conference Reviewer: ARR, ACL, MM
+- Conference Reviewer: ARR, ACL-24, EMNLP-24, MM-24
 - *2023.09 - current*, Soochow University Graduate Student Union - President
 - *2020.05 - 2021.05*, Students’ International Communication Association (SICA) - President
 
