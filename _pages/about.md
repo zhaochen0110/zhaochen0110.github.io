@@ -46,7 +46,7 @@ basic temporal concepts understanding and intricate temporal interpretations and
 
 # 📝 Publications 
 
-- ``COLM-24`` [Timo: Towards Better Temporal Reasoning for Language Models](https://arxiv.org/pdf/2406.14192), **Zhaochen Su**, Jun Zhang, Tong Zhu, Xiaoye Qu, Juntao Li, Min Zhang, Yu Cheng.
+- ``COLM 2024`` [Timo: Towards Better Temporal Reasoning for Language Models](https://arxiv.org/pdf/2406.14192), **Zhaochen Su**, Jun Zhang, Tong Zhu, Xiaoye Qu, Juntao Li, Min Zhang, Yu Cheng.
 
 - ``ACL 2024`` [Living in the Moment: Can Large Language Models Grasp Co-Temporal Reasoning?](https://arxiv.org/pdf/2406.09072), **Zhaochen Su**, Juntao Li, Jun Zhang, Tong Zhu, Xiaoye Qu, Pan Zhou, Yan Bowen, Yu Cheng, Min zhang
 
