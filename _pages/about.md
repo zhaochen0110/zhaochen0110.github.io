@@ -40,7 +40,7 @@ basic temporal concepts understanding and intricate temporal interpretations and
 # 🔥 News
 - *2024.7*: &nbsp;🎉🎉 One paper is accepted by COLM 2024!
 - *2024.6*: &nbsp;🎉🎉 Invited talk on [temporal reasoning](https://www.bilibili.com/video/BV1SJ4m1u7Cg/?spm_id_from=333.337.search-card.all.click&vd_source=cb56bffcd72c8f46eaea59a666b85547) at NICE!
-- *2024.5*: &nbsp;🎉🎉 One paper is accepted by ACL 2024!
+- *2024.5*: &nbsp;🎉🎉 One paper is accepted by ACL 2024 <font color='red'> oral </font>!
 - *2023.10*: &nbsp;🎉🎉 One paper is accepted by EMNLP 2023!
 - *2022.10*: &nbsp;🎉🎉 One paper is accepted by EMNLP 2022!
 
@@ -48,7 +48,7 @@ basic temporal concepts understanding and intricate temporal interpretations and
 
 - ``COLM 2024`` [Timo: Towards Better Temporal Reasoning for Language Models](https://arxiv.org/pdf/2406.14192), **Zhaochen Su**, Jun Zhang, Tong Zhu, Xiaoye Qu, Juntao Li, Min Zhang, Yu Cheng.
 
-- ``ACL 2024`` [Living in the Moment: Can Large Language Models Grasp Co-Temporal Reasoning?](https://arxiv.org/pdf/2406.09072), **Zhaochen Su**, Juntao Li, Jun Zhang, Tong Zhu, Xiaoye Qu, Pan Zhou, Yan Bowen, Yu Cheng, Min zhang
+- ``ACL 2024 oral`` [Living in the Moment: Can Large Language Models Grasp Co-Temporal Reasoning?](https://arxiv.org/pdf/2406.09072), **Zhaochen Su**, Juntao Li, Jun Zhang, Tong Zhu, Xiaoye Qu, Pan Zhou, Yan Bowen, Yu Cheng, Min zhang
 
 - ``EMNLP 2023`` [Efficient Continue Training of Temporal Language Model with Structural Information](https://aclanthology.org/2023.findings-emnlp.418.pdf), **Zhaochen Su**, Juntao Li, Zikang Zhang, Zihan Zhou, Min Zhang
 
