@@ -54,7 +54,7 @@ basic temporal concepts understanding and intricate temporal interpretations and
 
 - ``EMNLP 2022`` [Improving Temporal Generalization of Pre-trained Language Models with Lexical Semantic Change](https://aclanthology.org/2022.emnlp-main.428.pdf), **Zhaochen Su**, Zecheng Tang, Xinyan Guan, Lijun Wu, Min Zhang, Juntao Li
 
-- ``Submission to Neurips-24`` ConflictBank: A Benchmark for Evaluating Knowledge Conflicts in Large Language Models, **Zhaochen Su**, Jun Zhang, Xiaoye Qu, Tong Zhu, Yanshu Li, Jiashuo Sun, Juntao Li, Min Zhang, Yu Cheng.
+- ``Submission to Neurips-24`` [ConflictBank: A Benchmark for Evaluating Knowledge Conflicts in Large Language Models](https://arxiv.org/pdf/2408.12076), **Zhaochen Su**, Jun Zhang, Xiaoye Qu, Tong Zhu, Yanshu Li, Jiashuo Sun, Juntao Li, Min Zhang, Yu Cheng.
 
 - ``Submission to AI-Journal`` Language Model Adaptation as Lexical Semantic Change Modeling, **Zhaochen Su**, Zikang Zhang, Juntao Li, Lijun Wu, Zecheng Tang, Min Zhang.
 
