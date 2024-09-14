@@ -84,6 +84,6 @@ basic temporal concepts understanding and intricate temporal interpretations and
 
 
 # 🎨 Miscellaneous
-Without any special circumstances, I exercise for **1 hour** every day. Here are some of my favorite sports and personal achievements: 🏋️ fitness (Progressive Overload (PR): bench press 98.5 kg, squat 140 kg, deadlift 135 kg), 🏓 table tennis (amateur intermediate), 🎾 tennis (skill level: 2.5), 🏃 running (5 km/h, 10 km pace), 🚴 cycling (25.5 km/h, 50 km pace).
+Without any special circumstances, I exercise for **1 hour** every day. Here are some of my favorite activities: 🏋️ fitness, 🏓 table tennis, 🎾 tennis, 🏃 running, 🚴 cycling, and 🥾 hiking.
 
 If you share similar hobbies, please feel free to reach out and connect!
