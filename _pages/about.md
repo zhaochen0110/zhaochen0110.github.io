@@ -86,6 +86,11 @@ basic temporal concepts understanding and intricate temporal interpretations and
 
 
 # 🎨 Miscellaneous
-Without any special circumstances, I exercise for **1 hour** every day. Here are some of my favorite activities: 🏋️ fitness, 🏓 table tennis, 🎾 tennis, 🏃 running, 🚴 cycling, and 🥾 hiking.
+I’m passionate about two things: social volunteering and sports! With over 600 hours of volunteering experience, I’ve had the privilege of serving as the Student Council President and interning at the United Nations. In my downtime, staying active is my go-to. Without any special circumstances, I make sure to exercise for at least an hour every day. Some of my favorite activities include 🏋️ fitness, 🏓 table tennis, 🎾 tennis, 🏃 running, 🚴 cycling, and 🥾 hiking. For me, there’s nothing quite like the thrill of pushing my limits and enjoying the outdoors!
 
-If you share similar hobbies, please feel free to reach out and connect!
+
+
+
+
+
+
