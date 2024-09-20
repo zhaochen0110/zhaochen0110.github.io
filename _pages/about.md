@@ -39,6 +39,7 @@ basic temporal concepts understanding and intricate temporal interpretations and
 
 # 🔥 News
 - *2024.10 (Schedule)*: &nbsp;🎉🎉 Attending COLM-2024 in Philadelphia and presenting [Timo](https://arxiv.org/pdf/2406.14192) in-person.
+- *2024.9*: &nbsp;🎉🎉 One paper is accepted by EMNLP 2024!
 - *2024.8*: &nbsp;🎉🎉 Attending ACL-2024 in Thailand, giving an oral presentation on [co-temporal reasoning](https://arxiv.org/pdf/2406.09072).
 - *2024.7*: &nbsp;🎉🎉 One paper is accepted by COLM 2024!
 - *2024.6*: &nbsp;🎉🎉 Invited talk on [temporal reasoning](https://www.bilibili.com/video/BV1SJ4m1u7Cg/?spm_id_from=333.337.search-card.all.click&vd_source=cb56bffcd72c8f46eaea59a666b85547) at NICE!
@@ -47,6 +48,7 @@ basic temporal concepts understanding and intricate temporal interpretations and
 - *2022.10*: &nbsp;🎉🎉 One paper is accepted by EMNLP 2022!
 
 # 📝 Publications 
+
 
 - ``COLM 2024`` [Timo: Towards Better Temporal Reasoning for Language Models](https://arxiv.org/pdf/2406.14192), **Zhaochen Su**, Jun Zhang, Tong Zhu, Xiaoye Qu, Juntao Li, Min Zhang, Yu Cheng.
 
