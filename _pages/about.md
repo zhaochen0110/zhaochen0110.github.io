@@ -54,6 +54,8 @@ basic temporal concepts understanding and intricate temporal interpretations and
 
 - ``ACL 2024 oral`` [Living in the Moment: Can Large Language Models Grasp Co-Temporal Reasoning?](https://arxiv.org/pdf/2406.09072), **Zhaochen Su**, Juntao Li, Jun Zhang, Tong Zhu, Xiaoye Qu, Pan Zhou, Yan Bowen, Yu Cheng, Min zhang
 
+- - ``EMNLP 2024`` [SURf: Teaching Large Vision-Language Models to Selectively Utilize Retrieved Information](https://arxiv.org/pdf/2409.14083), Jiashuo Sun, Jihai Zhang, Yucheng Zhou, Zhaochen Su4, Xiaoye Qu, Yu Cheng
+
 - ``EMNLP 2023`` [Efficient Continue Training of Temporal Language Model with Structural Information](https://aclanthology.org/2023.findings-emnlp.418.pdf), **Zhaochen Su**, Juntao Li, Zikang Zhang, Zihan Zhou, Min Zhang
 
 - ``EMNLP 2022`` [Improving Temporal Generalization of Pre-trained Language Models with Lexical Semantic Change](https://aclanthology.org/2022.emnlp-main.428.pdf), **Zhaochen Su**, Zecheng Tang, Xinyan Guan, Lijun Wu, Min Zhang, Juntao Li
