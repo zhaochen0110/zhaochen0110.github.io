@@ -39,6 +39,7 @@ basic temporal concepts understanding and intricate temporal interpretations and
 
 # 🔥 News
 - *2024.10 (Schedule)*: &nbsp;🎉🎉 Attending COLM-2024 in Philadelphia and presenting [Timo](https://arxiv.org/pdf/2406.14192) in-person.
+- *2024.9*: &nbsp;🎉🎉 One paper is accepted by Neurips 2024!
 - *2024.9*: &nbsp;🎉🎉 One paper is accepted by EMNLP 2024!
 - *2024.8*: &nbsp;🎉🎉 Attending ACL-2024 in Thailand, giving an oral presentation on [co-temporal reasoning](https://arxiv.org/pdf/2406.09072).
 - *2024.7*: &nbsp;🎉🎉 One paper is accepted by COLM 2024!
@@ -49,18 +50,17 @@ basic temporal concepts understanding and intricate temporal interpretations and
 
 # 📝 Publications 
 
+- ``Neurips 2024`` [ConflictBank: A Benchmark for Evaluating Knowledge Conflicts in Large Language Models](https://arxiv.org/pdf/2408.12076), **Zhaochen Su**, Jun Zhang, Xiaoye Qu, Tong Zhu, Yanshu Li, Jiashuo Sun, Juntao Li, Min Zhang, Yu Cheng.
 
 - ``COLM 2024`` [Timo: Towards Better Temporal Reasoning for Language Models](https://arxiv.org/pdf/2406.14192), **Zhaochen Su**, Jun Zhang, Tong Zhu, Xiaoye Qu, Juntao Li, Min Zhang, Yu Cheng.
 
 - ``ACL 2024 oral`` [Living in the Moment: Can Large Language Models Grasp Co-Temporal Reasoning?](https://arxiv.org/pdf/2406.09072), **Zhaochen Su**, Juntao Li, Jun Zhang, Tong Zhu, Xiaoye Qu, Pan Zhou, Yan Bowen, Yu Cheng, Min zhang
 
-- - ``EMNLP 2024`` [SURf: Teaching Large Vision-Language Models to Selectively Utilize Retrieved Information](https://arxiv.org/pdf/2409.14083), Jiashuo Sun, Jihai Zhang, Yucheng Zhou, Zhaochen Su4, Xiaoye Qu, Yu Cheng
+- ``EMNLP 2024`` [SURf: Teaching Large Vision-Language Models to Selectively Utilize Retrieved Information](https://arxiv.org/pdf/2409.14083), Jiashuo Sun, Jihai Zhang, Yucheng Zhou, Zhaochen Su4, Xiaoye Qu, Yu Cheng
 
 - ``EMNLP 2023`` [Efficient Continue Training of Temporal Language Model with Structural Information](https://aclanthology.org/2023.findings-emnlp.418.pdf), **Zhaochen Su**, Juntao Li, Zikang Zhang, Zihan Zhou, Min Zhang
 
 - ``EMNLP 2022`` [Improving Temporal Generalization of Pre-trained Language Models with Lexical Semantic Change](https://aclanthology.org/2022.emnlp-main.428.pdf), **Zhaochen Su**, Zecheng Tang, Xinyan Guan, Lijun Wu, Min Zhang, Juntao Li
-
-- ``Submission to Neurips-24`` [ConflictBank: A Benchmark for Evaluating Knowledge Conflicts in Large Language Models](https://arxiv.org/pdf/2408.12076), **Zhaochen Su**, Jun Zhang, Xiaoye Qu, Tong Zhu, Yanshu Li, Jiashuo Sun, Juntao Li, Min Zhang, Yu Cheng.
 
 - ``Submission to AI-Journal`` Language Model Adaptation as Lexical Semantic Change Modeling, **Zhaochen Su**, Zikang Zhang, Juntao Li, Lijun Wu, Zecheng Tang, Min Zhang.
 
