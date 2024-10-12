@@ -38,7 +38,7 @@ basic temporal concepts understanding and intricate temporal interpretations and
 🤝 **I'm looking for a PhD position in 2025 Fall. Don't hesitate to email me if there is a potential opportunity!**
 
 # 🔥 News
-- *2024.10 (Schedule)*: &nbsp;🎉🎉 Attending COLM-2024 in Philadelphia and presenting [Timo](https://arxiv.org/pdf/2406.14192) in-person.
+- *2024.10*: &nbsp;🎉🎉 Attending COLM-2024 in Philadelphia and presenting [Timo](https://arxiv.org/pdf/2406.14192) in-person.
 - *2024.9*: &nbsp;🎉🎉 One paper is accepted by Neurips 2024!
 - *2024.9*: &nbsp;🎉🎉 One paper is accepted by EMNLP 2024!
 - *2024.8*: &nbsp;🎉🎉 Attending ACL-2024 in Thailand, giving an oral presentation on [co-temporal reasoning](https://arxiv.org/pdf/2406.09072).
