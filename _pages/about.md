@@ -66,6 +66,7 @@ basic temporal concepts understanding and intricate temporal interpretations and
 
   
 # 🎖 Honors and Awards
+- National Scholarship in China
 - Soochow University Graduate Outstanding Scholarship (Rank 1st)
 - COLM 2024 DEI scholarship 
 - The Samsung Scholarship
