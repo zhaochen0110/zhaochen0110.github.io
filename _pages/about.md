@@ -74,7 +74,7 @@ basic temporal concepts understanding and intricate temporal interpretations and
 - Chinese Collegiate Computing Competition -- Second Prize (National Level, Team Leader)
 
 # 📖 Educations
-- *2022.09 - current*, Second-year Master, Artificial Intelligence Research Institute, Soochow University, Suzhou.
+- *2022.09 - current*, Third-year Master, Artificial Intelligence Research Institute, Soochow University, Suzhou.
 - *2018.09 - 2022.06*, Bachelor, Institute of Computer Science and Technology, Soochow University, Suzhou.
 - *2021.07 - 2022.07*, Dual Degree, Brain Science, Soochow University, Suzhou.
 
