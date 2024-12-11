@@ -19,7 +19,7 @@ redirect_from:
 
 Hi, I am Zhaochen Su (苏肇辰), an incoming PhD student co-supervised by [Prof. Junxian He](https://jxhe.github.io/) and [Prof. May Fung](https://mayrfung.github.io/) at the Hong Kong University of Science and Technology starting in the fall of 2025.
 
-Currently, I am a third-year master student at the Artificial Intelligence Research Institute of Soochow University, advised by [Assoc. Prof. Juntao Li(李俊涛)](https://lijuntaopku.github.io/) and [Prof. Min Zhang(张民)](https://zhangmin-nlp-ai.github.io/).
+Currently, I am a third-year master student at the Artificial Intelligence Research Institute of Soochow University, advised by [Assoc. Prof. Juntao Li](https://lijuntaopku.github.io/) and [Prof. Min Zhang](https://zhangmin-nlp-ai.github.io/).
 
 Before this, I received my Bachelor’s degree (2018-2022, computer science) from Soochow University.
 
