@@ -17,11 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently at the Artificial Intelligence Research Institute of Soochow University, advised by [Assoc. Prof. Juntao Li(李俊涛)](https://lijuntaopku.github.io/) and [Prof. Min Zhang(张民)](https://scholar.google.com/citations?hl=zh-CN&user=CncXH-YAAAAJ).
+Hi, I am Zhaochen Su (苏肇辰), an incoming PhD student co-supervised by [Prof. Junxian He](https://jxhe.github.io/) and [Prof. May Fung](https://mayrfung.github.io/) at the Hong Kong University of Science and Technology starting in the fall of 2025.
+
+Currently, I am a third-year master student at the Artificial Intelligence Research Institute of Soochow University, advised by [Assoc. Prof. Juntao Li(李俊涛)](https://lijuntaopku.github.io/) and [Prof. Min Zhang(张民)](https://zhangmin-nlp-ai.github.io/).
 
 Before this, I received my Bachelor’s degree (2018-2022, computer science) from Soochow University.
 
-I am currently working as a research intern at [Shanghai AI Laboratory](https://www.shlab.org.cn/) General Technology Research under the mentorship of [Xiaoye Qu(瞿晓晔)](https://scholar.google.com/citations?user=rT3hqdcAAAAJ&hl=zh-CN) and [Yu Cheng(成宇)](https://scholar.google.com/citations?user=ORPxbV4AAAAJ&hl=zh-CN).
+At present, I am working as a research intern at [Shanghai AI Laboratory](https://www.shlab.org.cn/) General Technology Research under the mentorship of [Xiaoye Qu(瞿晓晔)](https://scholar.google.com/citations?user=rT3hqdcAAAAJ&hl=zh-CN) and [Yu Cheng(成宇)](https://scholar.google.com/citations?user=ORPxbV4AAAAJ&hl=zh-CN).
 
 
 
