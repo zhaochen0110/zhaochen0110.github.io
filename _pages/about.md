@@ -23,7 +23,7 @@ Currently, I am a third-year master student at the Artificial Intelligence Resea
 
 Before this, I received my Bachelor’s degree (2018-2022, computer science) from Soochow University.
 
-At present, I am working as a research intern at [Shanghai AI Laboratory](https://www.shlab.org.cn/) General Technology Research under the mentorship of [Xiaoye Qu](https://scholar.google.com/citations?user=rT3hqdcAAAAJ&hl=zh-CN) and [Yu Cheng](https://scholar.google.com/citations?user=ORPxbV4AAAAJ&hl=zh-CN).
+At present, I am working as a research intern at [Shanghai AI Laboratory](https://www.shlab.org.cn/) under the mentorship of [Xiaoye Qu](https://scholar.google.com/citations?user=rT3hqdcAAAAJ&hl=zh-CN) and [Yu Cheng](https://scholar.google.com/citations?user=ORPxbV4AAAAJ&hl=zh-CN).
 
 
 
