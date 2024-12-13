@@ -38,10 +38,9 @@ basic temporal concepts understanding and intricate temporal interpretations and
 📖 *Can the progress of civilization, and the advancement of technology truly transcend time? Or are we just endlessly pursuing the elusive dust in the hourglass?*
 
 # 🔥 News
-- *2024.10*: &nbsp;🎉🎉 Attending COLM-2024 in Philadelphia and presenting [Timo](https://arxiv.org/pdf/2406.14192) in-person.
+- *2024.11*: &nbsp;🎉🎉 Invited talk on [knowledge conflict](https://b23.tv/n9BD1I9) at AI Time!
 - *2024.9*: &nbsp;🎉🎉 One paper is accepted by Neurips 2024!
 - *2024.9*: &nbsp;🎉🎉 One paper is accepted by EMNLP 2024!
-- *2024.8*: &nbsp;🎉🎉 Attending ACL-2024 in Thailand, giving an oral presentation on [co-temporal reasoning](https://arxiv.org/pdf/2406.09072).
 - *2024.7*: &nbsp;🎉🎉 One paper is accepted by COLM 2024!
 - *2024.6*: &nbsp;🎉🎉 Invited talk on [temporal reasoning](https://www.bilibili.com/video/BV1SJ4m1u7Cg/?spm_id_from=333.337.search-card.all.click&vd_source=cb56bffcd72c8f46eaea59a666b85547) at NICE!
 - *2024.5*: &nbsp;🎉🎉 One paper is accepted by ACL 2024 <font color='red'> oral </font>!
