@@ -26,14 +26,7 @@ Before this, I received my Bachelor’s degree (2018-2022, computer science) fro
 At present, I am working as a research intern at [Shanghai AI Laboratory](https://www.shlab.org.cn/) under the mentorship of [Xiaoye Qu](https://scholar.google.com/citations?user=rT3hqdcAAAAJ&hl=zh-CN) and [Yu Cheng](https://scholar.google.com/citations?user=ORPxbV4AAAAJ&hl=zh-CN).
 
 
-
-
-🤔 My research interests are primarily focused on exploring various challenges related to the dynamic of **"time"** in machine learning. Currently, my main focus is on Large Language Models (LLMs), covering the following topics:
-- **Adaptation and Generalization:** Focusing on the reasons behind model degradation in time and exploring the strategies to improve temporal generalization and update the knowledge without catastrophic forgetting of old knowledge.
-- **Trustworthiness and Reliability:** Investigation into the behavior of LLMs when encountering knowledge
-conflicts and exploring methods to mitigate knowledge conflicts of old knowledge as we update LLMs with new knowledge.
-- **Complex reasoning:** Research on equipping LLMs with human-level temporal reasoning and commonsense. This involves
-basic temporal concepts understanding and intricate temporal interpretations and computations.
+🤔 I aim to advance the fundamental understanding of knowledge and reasoning in LLM/LVLM, paving the way toward more interpretable, adaptive, and human-like AI.
 
 📖 *Can the progress of civilization, and the advancement of technology truly transcend time? Or are we just endlessly pursuing the elusive dust in the hourglass?*
 
