@@ -87,7 +87,7 @@ Process-Level Reward Models](https://arxiv.org/pdf/2501.03124), Mingyang Song, *
 
 
 # 🎨 Miscellaneous
-I’m passionate about two things: social volunteering and sports! With over 600 hours of volunteering experience, I’ve had the privilege of serving as the Student Council President and interning at the United Nations. In my downtime, staying active is my go-to. Without any special circumstances, I make sure to exercise for at least an hour every day. Some of my favorite activities include 🏋️ fitness, 🏓 table tennis, 🎾 tennis, 🏃 running, 🚴 cycling, and 🥾 hiking. For me, there’s nothing quite like the thrill of pushing my limits and enjoying the outdoors!
+I’m passionate about photography, philosophy, and sports. Staying active is a daily priority for me — some of my go-to activities include 🏋️ fitness, 🏓 table tennis, 🎾 tennis, 🏃 running, 🚴 cycling, and 🥾 hiking. I love the challenge of pushing my limits and exploring the outdoors. If you’re into fitness too, feel free to add me on Apple Watch (friend code: 8615952695009), and let’s keep each other motivated!
 
 
 
