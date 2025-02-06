@@ -75,7 +75,8 @@ Process-Level Reward Models](https://arxiv.org/pdf/2501.03124), Mingyang Song, *
 - *2021.07 - 2022.07*, Dual Degree, Brain Science, Soochow University, Suzhou.
 
 # 💁 Volunteer
-- Conference Reviewer: ARR, ACL-24, EMNLP-24, MM-24, ICLR-25
+- **Area Chair/Action Editor:** ACL ARR 2025
+- **Reviewer:** ARR-24, ACL-24, EMNLP-24, MM-24, ICLR-25
 - *2023.09 - 2024.12*, Soochow University Graduate Student Union - President
 - *2020.05 - 2021.05*, Students’ International Communication Association (SICA) - President
 
