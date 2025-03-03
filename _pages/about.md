@@ -76,7 +76,7 @@ Process-Level Reward Models](https://arxiv.org/pdf/2501.03124), Mingyang Song, *
 
 # 💁 Volunteer
 - **Area Chair:** ACL ARR 2025
-- **Reviewer:** ARR-24, ACL-24, EMNLP-24, MM-24, ICLR-25
+- **Reviewer:** COLM-25, ICLR-25, ARR-24,  EMNLP-24, MM-24, ACL-24, COLM-24
 - *2023.09 - 2024.12*, Soochow University Graduate Student Union - **President**
 - *2020.05 - 2021.05*, Students’ International Communication Association (SICA) - **President**
 
