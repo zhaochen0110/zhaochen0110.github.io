@@ -31,6 +31,7 @@ At present, I am working as a research intern at [Shanghai AI Laboratory](https:
 📖 *Can the progress of civilization, and the advancement of technology truly transcend time? Or are we just endlessly pursuing the elusive dust in the hourglass?*
 
 # 🔥 News
+-- *2025.3*: &nbsp;🎉🎉 Check out our new [survey](https://arxiv.org/pdf/2503.21614), the first comprehensive survey on Efficient CoT in LLM/LVLM!
 - *2025.1*: &nbsp;🎉🎉 Check out our new paper [PRMBench](https://arxiv.org/pdf/2501.03124), the first process-level reward benchmark!
 - *2024.11*: &nbsp;🎉🎉 Invited talk on [knowledge conflict](https://b23.tv/n9BD1I9) at AI Time!
 - *2024.9*: &nbsp;🎉🎉 One paper is accepted by Neurips 2024! See you in Vancouver!
@@ -55,10 +56,14 @@ At present, I am working as a research intern at [Shanghai AI Laboratory](https:
 
 - ``EMNLP 2022`` [Improving Temporal Generalization of Pre-trained Language Models with Lexical Semantic Change](https://aclanthology.org/2022.emnlp-main.428.pdf), **Zhaochen Su**, Zecheng Tang, Xinyan Guan, Lijun Wu, Min Zhang, Juntao Li
 
+- ``Submission to AI-Journal`` Language Model Adaptation as Lexical Semantic Change Modeling, **Zhaochen Su**, Zikang Zhang, Juntao Li, Lijun Wu, Zecheng Tang, Min Zhang.
+
+
 - ``Arxiv 25.01`` [PRMBench: A Fine-grained and Challenging Benchmark for
 Process-Level Reward Models](https://arxiv.org/pdf/2501.03124), Mingyang Song, **Zhaochen Su**, Xiaoye Qu, Jiawei Zhou, Yu Cheng
 
-- ``Submission to AI-Journal`` Language Model Adaptation as Lexical Semantic Change Modeling, **Zhaochen Su**, Zikang Zhang, Juntao Li, Lijun Wu, Zecheng Tang, Min Zhang.
+- ``Arxiv 25.03`` [A Survey of Efficient Reasoning for Large Reasoning Models: Language, Multimodality, and Beyond](https://arxiv.org/pdf/2503.21614), Xiaoye Qu, Yafu Li, **Zhaochen Su**, Weigao Sun, Jianhao Yan, Dongrui Liu, Ganqu Cui, Daizong Liu, Shuxian Liang, Junxian He, Peng Li, Wei Wei, Jing Shao, Chaochao Lu, Yue Zhang, Xian-Sheng Hua, Bowen Zhou, Yu Cheng
+
 
   
 # 🎖 Honors and Awards
