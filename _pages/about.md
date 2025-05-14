@@ -31,6 +31,7 @@ At present, I am working as a research intern at [Shanghai AI Laboratory](https:
 📖 *Can the progress of civilization, and the advancement of technology truly transcend time? Or are we just endlessly pursuing the elusive dust in the hourglass?*
 
 # 🔥 News
+- *2025.5*: &nbsp;🎉🎉 Check out our new project [OpenThinkIMG](https://arxiv.org/pdf/2505.08617), the first end-to-end open-source framework that empowers LVLMs to think with images.
 - *2025.3*: &nbsp;🎉🎉 Check out our new [survey](https://arxiv.org/pdf/2503.21614), the first comprehensive survey on Efficient CoT in LLM/LVLM!
 - *2025.1*: &nbsp;🎉🎉 Check out our new paper [PRMBench](https://arxiv.org/pdf/2501.03124), the first process-level reward benchmark!
 - *2024.11*: &nbsp;🎉🎉 Invited talk on [knowledge conflict](https://b23.tv/n9BD1I9) at AI Time!
@@ -64,6 +65,9 @@ Process-Level Reward Models](https://arxiv.org/pdf/2501.03124), Mingyang Song, *
 
 - ``Arxiv 25.03`` [A Survey of Efficient Reasoning for Large Reasoning Models: Language, Multimodality, and Beyond](https://arxiv.org/pdf/2503.21614), Xiaoye Qu, Yafu Li, **Zhaochen Su**, Weigao Sun, Jianhao Yan, Dongrui Liu, Ganqu Cui, Daizong Liu, Shuxian Liang, Junxian He, Peng Li, Wei Wei, Jing Shao, Chaochao Lu, Yue Zhang, Xian-Sheng Hua, Bowen Zhou, Yu Cheng
 
+- ``Arxiv 25.03`` [A Survey of Efficient Reasoning for Large Reasoning Models: Language, Multimodality, and Beyond](https://arxiv.org/pdf/2503.21614), Xiaoye Qu, Yafu Li, **Zhaochen Su**, Weigao Sun, Jianhao Yan, Dongrui Liu, Ganqu Cui, Daizong Liu, Shuxian Liang, Junxian He, Peng Li, Wei Wei, Jing Shao, Chaochao Lu, Yue Zhang, Xian-Sheng Hua, Bowen Zhou, Yu Cheng
+
+- `Arxiv 25.05``[OpenThinkIMG: Learning to Think with Images via Visual Tool Reinforcement Learning](https://arxiv.org/pdf/2505.08617), **Zhaochen Su**, Linjie Li, Mingyang Song, Yunzhuo Hao, Zhengyuan Yang, Jun Zhang, Guanjie Chen, Jiawei Gu, Juntao Li, Xiaoye Qu, Yu Cheng
 
   
 # 🎖 Honors and Awards
