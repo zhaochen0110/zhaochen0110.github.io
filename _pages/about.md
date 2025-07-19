@@ -45,7 +45,7 @@ At present, I am working as a research intern at [Shanghai AI Laboratory](https:
 
 # 📝 Publications 
 
-- ``Neurips 2025`` [PRMBench: A Fine-grained and Challenging Benchmark for
+- ``ACL 2025`` [PRMBench: A Fine-grained and Challenging Benchmark for
 Process-Level Reward Models](https://arxiv.org/pdf/2501.03124), Mingyang Song, **Zhaochen Su**, Xiaoye Qu, Jiawei Zhou, Yu Cheng
 
 - ``Neurips 2024`` [ConflictBank: A Benchmark for Evaluating Knowledge Conflicts in Large Language Models](https://arxiv.org/pdf/2408.12076), **Zhaochen Su**, Jun Zhang, Xiaoye Qu, Tong Zhu, Yanshu Li, Jiashuo Sun, Juntao Li, Min Zhang, Yu Cheng.
