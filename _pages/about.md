@@ -19,31 +19,26 @@ redirect_from:
 
 Hi, I am Zhaochen Su (苏肇辰), an incoming PhD student co-supervised by [Prof. Junxian He](https://jxhe.github.io/) and [Prof. May Fung](https://mayrfung.github.io/) at the Hong Kong University of Science and Technology starting in the fall of 2025.
 
-Currently, I am a third-year master student at the Artificial Intelligence Research Institute of Soochow University, advised by [Prof. Juntao Li](https://lijuntaopku.github.io/) and [Prof. Min Zhang](https://zhangmin-nlp-ai.github.io/).
+I obtained my Bachelor's and Master's degrees from Soochow University, advised by [Prof. Juntao Li](https://lijuntaopku.github.io/) and [Prof. Min Zhang](https://zhangmin-nlp-ai.github.io/).
 
-Before this, I received my Bachelor’s degree (2018-2022, computer science) from Soochow University.
+🧠 In the era of generative AI, I am passionate about understanding knowledge and reasoning in LLM/LVLM. My work has explored the operational mechanisms of model knowledge (ConflictBank), the adaptation to time-sensitive knowledge (LMLM, SG-TLM), and universal temporal reasoning (CotempoQA, Timo).
 
-At present, I am working as a research intern at [Shanghai AI Laboratory](https://www.shlab.org.cn/) under the mentorship of [Xiaoye Qu](https://scholar.google.com/citations?user=rT3hqdcAAAAJ&hl=zh-CN) and [Yu Cheng](https://scholar.google.com/citations?user=ORPxbV4AAAAJ&hl=zh-CN).
+🤖 Now, in the era of agentic AI, I am highly interested in the next generation of multimodal agent models. My current focus is on training complex, human-like think-act models that leverage advanced and diverse multimodal toolsets (Openthinkimg).
 
-
-🤔 I aim to advance the fundamental understanding of knowledge and reasoning in LLM/LVLM, paving the way toward more interpretable, adaptive, and human-like AI.
-
-📖 *Can the progress of civilization, and the advancement of technology truly transcend time? Or are we just endlessly pursuing the elusive dust in the hourglass?*
+📖 *Can the progress of civilization, and the advancement of technology truly transcend time? Or are we just endlessly pursuing the elusive dust in the hourglass?* — Just some of my thoughts.
 
 # 🔥 News
-- *2025.5*: &nbsp;🎉🎉 Check out our new project [OpenThinkIMG](https://arxiv.org/pdf/2505.08617), the first end-to-end open-source framework that empowers LVLMs to think with images.
+- *2025.7*: &nbsp;🎉🎉 Check out our new [survey](https://arxiv.org/pdf/2506.23918), the first survey on the reasoning paradigm shift from "Think with Text" to "Think with Image" (800+🌟 on GitHub)! 
+- *2025.5*: &nbsp;🎉🎉 Check out our new project [OpenThinkIMG](https://arxiv.org/pdf/2505.08617), the first end-to-end open-source framework that empowers LVLMs to think with images (300+🌟 on GitHub)! .
 - *2025.3*: &nbsp;🎉🎉 Check out our new [survey](https://arxiv.org/pdf/2503.21614), the first comprehensive survey on Efficient CoT in LLM/LVLM!
 - *2025.1*: &nbsp;🎉🎉 Check out our new paper [PRMBench](https://arxiv.org/pdf/2501.03124), the first process-level reward benchmark!
-- *2024.11*: &nbsp;🎉🎉 Invited talk on [knowledge conflict](https://b23.tv/n9BD1I9) at AI Time!
-- *2024.9*: &nbsp;🎉🎉 One paper is accepted by Neurips 2024! See you in Vancouver!
-- *2024.9*: &nbsp;🎉🎉 One paper is accepted by EMNLP 2024!
-- *2024.7*: &nbsp;🎉🎉 One paper is accepted by COLM 2024! See you in Philadelphia!
-- *2024.6*: &nbsp;🎉🎉 Invited talk on [temporal reasoning](https://www.bilibili.com/video/BV1SJ4m1u7Cg/?spm_id_from=333.337.search-card.all.click&vd_source=cb56bffcd72c8f46eaea59a666b85547) at NICE!
-- *2024.5*: &nbsp;🎉🎉 One paper is accepted by ACL 2024 <font color='red'> oral </font>! See you in Bangkok!
-- *2023.10*: &nbsp;🎉🎉 One paper is accepted by EMNLP 2023!
-- *2022.10*: &nbsp;🎉🎉 One paper is accepted by EMNLP 2022!
+
 
 # 📝 Publications 
+
+- ``Arxiv 25.07`` [Thinking with Images for Multimodal Reasoning: Foundations, Methods, and Future Frontiers](https://arxiv.org/pdf/2506.23918) **Zhaochen Su**, Peng Xia, Hangyu Guo, Zhenhua Liu, Yan Ma, Xiaoye Qu, Jiaqi Liu, Yanshu Li, Kaide Zeng, Zhengyuan Yang, Linjie Li, Yu Cheng, Heng Ji, Junxian He, Yi R. Fung
+
+- ``Arxiv 25.05``[OpenThinkIMG: Learning to Think with Images via Visual Tool Reinforcement Learning](https://arxiv.org/pdf/2505.08617), **Zhaochen Su**, Linjie Li, Mingyang Song, Yunzhuo Hao, Zhengyuan Yang, Jun Zhang, Guanjie Chen, Jiawei Gu, Juntao Li, Xiaoye Qu, Yu Cheng
 
 - ``ACL 2025`` [PRMBench: A Fine-grained and Challenging Benchmark for
 Process-Level Reward Models](https://arxiv.org/pdf/2501.03124), Mingyang Song, **Zhaochen Su**, Xiaoye Qu, Jiawei Zhou, Yu Cheng
@@ -60,25 +55,20 @@ Process-Level Reward Models](https://arxiv.org/pdf/2501.03124), Mingyang Song, *
 
 - ``EMNLP 2022`` [Improving Temporal Generalization of Pre-trained Language Models with Lexical Semantic Change](https://aclanthology.org/2022.emnlp-main.428.pdf), **Zhaochen Su**, Zecheng Tang, Xinyan Guan, Lijun Wu, Min Zhang, Juntao Li
 
-- ``Submission to AI-Journal`` Language Model Adaptation as Lexical Semantic Change Modeling, **Zhaochen Su**, Zikang Zhang, Juntao Li, Lijun Wu, Zecheng Tang, Min Zhang.
-
 - ``Arxiv 25.03`` [A Survey of Efficient Reasoning for Large Reasoning Models: Language, Multimodality, and Beyond](https://arxiv.org/pdf/2503.21614), Xiaoye Qu, Yafu Li, **Zhaochen Su**, Weigao Sun, Jianhao Yan, Dongrui Liu, Ganqu Cui, Daizong Liu, Shuxian Liang, Junxian He, Peng Li, Wei Wei, Jing Shao, Chaochao Lu, Yue Zhang, Xian-Sheng Hua, Bowen Zhou, Yu Cheng
 
-- ``Arxiv 25.03`` [A Survey of Efficient Reasoning for Large Reasoning Models: Language, Multimodality, and Beyond](https://arxiv.org/pdf/2503.21614), Xiaoye Qu, Yafu Li, **Zhaochen Su**, Weigao Sun, Jianhao Yan, Dongrui Liu, Ganqu Cui, Daizong Liu, Shuxian Liang, Junxian He, Peng Li, Wei Wei, Jing Shao, Chaochao Lu, Yue Zhang, Xian-Sheng Hua, Bowen Zhou, Yu Cheng
 
-- ``Arxiv 25.05``[OpenThinkIMG: Learning to Think with Images via Visual Tool Reinforcement Learning](https://arxiv.org/pdf/2505.08617), **Zhaochen Su**, Linjie Li, Mingyang Song, Yunzhuo Hao, Zhengyuan Yang, Jun Zhang, Guanjie Chen, Jiawei Gu, Juntao Li, Xiaoye Qu, Yu Cheng
 
-  
+
 # 🎖 Honors and Awards
 - National Scholarship in China
 - Soochow University Graduate Outstanding Scholarship (Rank 1st)
-- COLM 2024 DEI scholarship 
 - The Samsung Scholarship
 - China Software Design Competition -- First Prize (National Level, Team Leader)
 - Chinese Collegiate Computing Competition -- Second Prize (National Level, Team Leader)
 
 # 📖 Educations
-- *2022.09 - current*, Third-year Master, Artificial Intelligence Research Institute, Soochow University, Suzhou.
+- *2022.09 - 2025.07*, Third-year Master, Artificial Intelligence Research Institute, Soochow University, Suzhou.
 - *2018.09 - 2022.06*, Bachelor, Institute of Computer Science and Technology, Soochow University, Suzhou.
 - *2021.07 - 2022.07*, Dual Degree, Brain Science, Soochow University, Suzhou.
 
@@ -91,12 +81,12 @@ Process-Level Reward Models](https://arxiv.org/pdf/2501.03124), Mingyang Song, *
 
 
 # 💻 Internships
-- *2023.10 - current*, [Shanghai AI Laboratory](https://www.shlab.org.cn/), China.
+- *2023.10 - 2025.05*, [Shanghai AI Laboratory](https://www.shlab.org.cn/), China.
 - *2021.06 - 2021.09*, [World Heritage Institute of Training and Research for the Asia and the Pacific Region under the auspices of UNESCO](http://www.whitr-ap.org/), China.
 
 
 # 🎨 Miscellaneous
-I’m passionate about photography, philosophy, and sports. Staying active is a daily priority for me — some of my go-to activities include 🏋️ fitness, 🏓 table tennis, 🎾 tennis, 🏃 running, 🚴 cycling, and 🥾 hiking. I love the challenge of pushing my limits and exploring the outdoors. If you’re into fitness too, feel free to add me on Apple Watch (friend code: 8615952695009), and let’s keep each other motivated!
+I’m passionate about photography, philosophy, and sports. Staying active is a daily priority for me — some of my go-to activities include 🏋️ fitness, 🏓 table tennis, 🎾 tennis, 🏃 running, 🚴 cycling, and 🥾 hiking. I love the challenge of pushing my limits and exploring the outdoors. If you’re into fitness too, feel free to reach out to me, and let’s keep each other motivated!
 
 
 
