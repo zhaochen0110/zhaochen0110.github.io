@@ -21,7 +21,7 @@ Hi, I am Zhaochen Su (苏肇辰), an incoming PhD student co-supervised by [Prof
 
 I obtained my Bachelor's and Master's degrees from Soochow University, advised by [Prof. Juntao Li](https://lijuntaopku.github.io/) and [Prof. Min Zhang](https://zhangmin-nlp-ai.github.io/).
 
-🧠 In the era of generative AI, I am passionate about understanding knowledge and reasoning in LLM/LVLM. My work has explored the operational mechanisms of model knowledge (ConflictBank), the adaptation to time-sensitive knowledge (LMLM, SG-TLM), and universal temporal reasoning (CotempoQA, Timo).
+🧠 In the era of generative AI, I am passionate about understanding knowledge and reasoning in LLM/LVLM. My work has explored the mechanisms of model knowledge (ConflictBank), the adaptation to time-sensitive knowledge (LMLM, SG-TLM), and universal temporal reasoning (CotempoQA, Timo).
 
 🤖 Now, in the era of agentic AI, I am highly interested in the next generation of multimodal agent models. My current focus is on training complex, human-like think-act models that leverage advanced and diverse multimodal toolsets (Openthinkimg).
 
