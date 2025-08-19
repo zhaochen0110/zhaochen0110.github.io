@@ -30,9 +30,7 @@ I obtained my Bachelor's and Master's degrees from Soochow University, advised b
 # 🔥 News
 - *2025.7*: &nbsp;🎉🎉 Check out our new [survey](https://arxiv.org/pdf/2506.23918), the first survey on the reasoning paradigm shift from "Think with Text" to "Think with Image" (800+🌟 on GitHub)! 
 - *2025.5*: &nbsp;🎉🎉 Check out our new project [OpenThinkIMG](https://arxiv.org/pdf/2505.08617), the first end-to-end open-source framework that empowers LVLMs to think with images (300+🌟 on GitHub)! .
-- *2025.3*: &nbsp;🎉🎉 Check out our new [survey](https://arxiv.org/pdf/2503.21614), the first comprehensive survey on Efficient CoT in LLM/LVLM!
 - *2025.1*: &nbsp;🎉🎉 Check out our new paper [PRMBench](https://arxiv.org/pdf/2501.03124), the first process-level reward benchmark!
-
 
 # 📝 Publications 
 
