@@ -66,12 +66,12 @@ Process-Level Reward Models](https://arxiv.org/pdf/2501.03124), Mingyang Song, *
 - Chinese Collegiate Computing Competition -- Second Prize (National Level, Team Leader)
 
 # 📖 Educations
-- *2022.09 - 2025.07*, Third-year Master, Artificial Intelligence Research Institute, Soochow University, Suzhou.
+- *2022.09 - 2025.07*, Master, Artificial Intelligence Research Institute, Soochow University, Suzhou.
 - *2018.09 - 2022.06*, Bachelor, Institute of Computer Science and Technology, Soochow University, Suzhou.
 - *2021.07 - 2022.07*, Dual Degree, Brain Science, Soochow University, Suzhou.
 
 # 💁 Volunteer
-- **Area Chair:** ACL ARR 2025
+- **Area Chair:** ACL ARR 2025, ACL-25, EMNLP-25
 - **Reviewer:** COLM-25, ICLR-25, ARR-24,  EMNLP-24, MM-24, ACL-24, COLM-24
 - *2023.09 - 2024.12*, Soochow University Graduate Student Union - **President**
 - *2020.05 - 2021.05*, Students’ International Communication Association (SICA) - **President**
