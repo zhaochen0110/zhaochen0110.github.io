@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I am Zhaochen Su (苏肇辰), an incoming PhD student co-supervised by [Prof. Junxian He](https://jxhe.github.io/) and [Prof. May Fung](https://mayrfung.github.io/) at the Hong Kong University of Science and Technology (HKUST) starting in the fall of 2025.
+Hi, I am Zhaochen Su (苏肇辰), a first-year PhD student co-supervised by [Prof. Junxian He](https://jxhe.github.io/) and [Prof. May Fung](https://mayrfung.github.io/) at the Hong Kong University of Science and Technology (HKUST).
 
 I obtained my Bachelor's and Master's degrees from Soochow University, advised by [Prof. Juntao Li](https://lijuntaopku.github.io/) and [Prof. Min Zhang](https://zhangmin-nlp-ai.github.io/).
 
