@@ -28,6 +28,7 @@ I obtained my Bachelor's and Master's degrees from Soochow University, advised b
 📖 *Can the progress of civilization, and the advancement of technology truly transcend time? Or are we just endlessly pursuing the elusive dust in the hourglass?* — Just some of my thoughts.
 
 # 🔥 News
+- - *2026.1*: &nbsp;🎉🎉 Three papers are accepted by ICLR-26, one paper is accepted by TACL.
 - *2025.7*: &nbsp;🎉🎉 Check out our new [survey](https://arxiv.org/pdf/2506.23918), the first survey on the reasoning paradigm shift from "Think with Text" to "Think with Image" (1k+🌟 on GitHub)! 
 - *2025.5*: &nbsp;🎉🎉 Check out our new project [OpenThinkIMG](https://arxiv.org/pdf/2505.08617), the first end-to-end open-source framework that empowers LVLMs to think with images (300+🌟 on GitHub)! .
 - *2025.1*: &nbsp;🎉🎉 Check out our new paper [PRMBench](https://arxiv.org/pdf/2501.03124), the first process-level reward benchmark!
@@ -80,6 +81,7 @@ Process-Level Reward Models](https://arxiv.org/pdf/2501.03124), Mingyang Song, *
 
 
 # 💻 Internships
+- *2025.08 – Now*: [Agent team of Kimi](https://www.kimi.com/zh), China
 - *2023.10 - 2025.05*, [Shanghai AI Laboratory](https://www.shlab.org.cn/), China.
 - *2021.06 - 2021.09*, [World Heritage Institute of Training and Research for the Asia and the Pacific Region under the auspices of UNESCO](http://www.whitr-ap.org/), China.
 
