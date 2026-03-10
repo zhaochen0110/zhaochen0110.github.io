@@ -28,7 +28,7 @@ I obtained my Bachelor's and Master's degrees from Soochow University, advised b
 📖 *Can the progress of civilization, and the advancement of technology truly transcend time? Or are we just endlessly pursuing the elusive dust in the hourglass?* — Just some of my thoughts.
 
 # 🔥 News
-- *[2026-02]* &nbsp;🎉🎉 We released [AgentVista](https://arxiv.org/pdf/2602.23166), the first benchmark for **multimodal agents** on realistic, ultra-challenging visual scenarios requiring long-horizon hybrid tool use.
+- *2026-02* &nbsp;🎉🎉 We released [AgentVista](https://arxiv.org/pdf/2602.23166), the first benchmark for **multimodal agents** on realistic, ultra-challenging visual scenarios requiring long-horizon hybrid tool use.
 - *2026.02*：&nbsp;🎉🎉 Kimi K2.5 tech report has been released [arxiv](https://arxiv.org/abs/2602.02276).
 - *2026.1*: &nbsp;🎉🎉 Three papers are accepted by ICLR-26, one paper is accepted by TACL.
 - *2025.7*: &nbsp;🎉🎉 Check out our new [survey](https://arxiv.org/pdf/2506.23918), the first survey on the reasoning paradigm shift from "Think with Text" to "Think with Image" (1k+🌟 on GitHub)! 
@@ -36,6 +36,8 @@ I obtained my Bachelor's and Master's degrees from Soochow University, advised b
 - *2025.1*: &nbsp;🎉🎉 Check out our new paper [PRMBench](https://arxiv.org/pdf/2501.03124), the first process-level reward benchmark!
 
 # 📝 Selected Papers <a href='https://scholar.google.com/citations?user=ponDXAYAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+
+- ``Arxiv 26.02`` [AgentVista: Evaluating Multimodal Agents in Ultra-Challenging Realistic Visual Scenarios](https://arxiv.org/pdf/2602.23166), **Zhaochen Su**, Jincheng Gao, Hangyu Guo, Zhenhua Liu, Lueyang Zhang, Xinyu Geng, Shijue Huang, Peng Xia, Guanyu Jiang, Cheng Wang, Yue Zhang, Yi R. (May) Fung, Junxian He.
 
 - ``Arxiv 25.07`` [Thinking with Images for Multimodal Reasoning: Foundations, Methods, and Future Frontiers](https://arxiv.org/pdf/2506.23918), **Zhaochen Su**, Peng Xia, Hangyu Guo, Zhenhua Liu, Yan Ma, Xiaoye Qu, Jiaqi Liu, Yanshu Li, Kaide Zeng, Zhengyuan Yang, Linjie Li, Yu Cheng, Heng Ji, Junxian He, Yi R. Fung
 
