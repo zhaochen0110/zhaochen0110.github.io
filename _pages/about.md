@@ -28,6 +28,8 @@ I obtained my Bachelor's and Master's degrees from Soochow University, advised b
 📖 *Can the progress of civilization, and the advancement of technology truly transcend time? Or are we just endlessly pursuing the elusive dust in the hourglass?* — Just some of my thoughts.
 
 # 🔥 News
+- *[2026-02]* &nbsp;🎉🎉 We released [AgentVista](https://arxiv.org/pdf/2602.23166), the first benchmark for **multimodal agents** on realistic, ultra-challenging visual scenarios requiring long-horizon hybrid tool use.
+- *2026.02*：&nbsp;🎉🎉 Kimi K2.5 tech report has been released [arxiv](https://arxiv.org/abs/2602.02276).
 - *2026.1*: &nbsp;🎉🎉 Three papers are accepted by ICLR-26, one paper is accepted by TACL.
 - *2025.7*: &nbsp;🎉🎉 Check out our new [survey](https://arxiv.org/pdf/2506.23918), the first survey on the reasoning paradigm shift from "Think with Text" to "Think with Image" (1k+🌟 on GitHub)! 
 - *2025.5*: &nbsp;🎉🎉 Check out our new project [OpenThinkIMG](https://arxiv.org/pdf/2505.08617), the first end-to-end open-source framework that empowers LVLMs to think with images (300+🌟 on GitHub)! .
