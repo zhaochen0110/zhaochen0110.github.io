@@ -23,11 +23,12 @@ I obtained my Bachelor's and Master's degrees from Soochow University, advised b
 
 🧠 In the era of generative AI, I am passionate about understanding knowledge and reasoning in LLM/LVLM. My work has explored the mechanisms of model knowledge (ConflictBank), the adaptation to time-sensitive knowledge (LMLM, SG-TLM), and universal temporal reasoning (CotempoQA, Timo).
 
-🤖 Now, in the era of agentic AI, I am highly interested in the next generation of multimodal agent models. My current focus is on training complex, human-like think-act models that leverage advanced and diverse multimodal toolsets (Openthinkimg).
+🤖 Now, in the era of agentic AI, I am highly interested in the next generation of multimodal agent models. My research focuses on building human-like think-act agents with rich multimodal tool use (OpenThinkIMG), advancing realistic and challenging evaluation benchmarks (AgentVista), and enabling continual self-improvement through experience and skill learning (XSkill).
 
 📖 *Can the progress of civilization, and the advancement of technology truly transcend time? Or are we just endlessly pursuing the elusive dust in the hourglass?* — Just some of my thoughts.
 
 # 🔥 News
+- *2026-03* &nbsp;🎉🎉 We released [Xskill](https://arxiv.org/pdf/2603.12056),the first dual-stream framework that enables multimodal agents to continually learn from experience and skills without parameter updates.
 - *2026-02* &nbsp;🎉🎉 We released [AgentVista](https://arxiv.org/pdf/2602.23166), the first benchmark for **multimodal agents** on realistic, ultra-challenging visual scenarios requiring long-horizon hybrid tool use.
 - *2026.02*：&nbsp;🎉🎉 Kimi K2.5 tech report has been released [arxiv](https://arxiv.org/abs/2602.02276).
 - *2026.1*: &nbsp;🎉🎉 Three papers are accepted by ICLR-26, one paper is accepted by TACL.
@@ -36,6 +37,8 @@ I obtained my Bachelor's and Master's degrees from Soochow University, advised b
 - *2025.1*: &nbsp;🎉🎉 Check out our new paper [PRMBench](https://arxiv.org/pdf/2501.03124), the first process-level reward benchmark!
 
 # 📝 Selected Papers <a href='https://scholar.google.com/citations?user=ponDXAYAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+
+- ``Arxiv 26.03`` [XSkill: Continual Learning from Experience and Skills in Multimodal Agents](https://arxiv.org/pdf/2603.12056), Guanyu Jiang*, **Zhaochen Su***, Xiaoye Qu, Yi R. (May) Fung (equal contribution).  
 
 - ``Arxiv 26.02`` [AgentVista: Evaluating Multimodal Agents in Ultra-Challenging Realistic Visual Scenarios](https://arxiv.org/pdf/2602.23166), **Zhaochen Su**, Jincheng Gao, Hangyu Guo, Zhenhua Liu, Lueyang Zhang, Xinyu Geng, Shijue Huang, Peng Xia, Guanyu Jiang, Cheng Wang, Yue Zhang, Yi R. (May) Fung, Junxian He.
 
@@ -49,7 +52,6 @@ I obtained my Bachelor's and Master's degrees from Soochow University, advised b
 
 - ``ICLR 2026`` [Advancing Multimodal Reasoning: From Optimized Cold Start to Staged Reinforcement Learning](https://arxiv.org/pdf/2506.04207?), Shuang Chen, Yue Guo, **Zhaochen Su**, Yafu Li, Yulun Wu, Jiacheng Chen, Jiayu Chen, Weijie Wang, Xiaoye Qu, Yu Cheng
 
-- ``ICLR 2026`` [GRACE: Generative Representation Learning via Contrastive Policy Optimization](https://arxiv.org/pdf/2510.04506), Jiashuo Sun, Shixuan Liu, **Zhaochen Su**, Xianrui Zhong, Pengcheng Jiang, Bowen Jin, Peiran Li, Weijia Shi, Jiawei Han
 
 - ``ACL 2025`` [PRMBench: A Fine-grained and Challenging Benchmark for
 Process-Level Reward Models](https://arxiv.org/pdf/2501.03124), Mingyang Song, **Zhaochen Su**, Xiaoye Qu, Jiawei Zhou, Yu Cheng
