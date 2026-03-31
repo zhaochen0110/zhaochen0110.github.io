@@ -94,7 +94,6 @@ Process-Level Reward Models](https://arxiv.org/pdf/2501.03124), Mingyang Song, *
 
 # 💻 Internships
 - *2025.08 – Now*: [Agent team of Kimi](https://www.kimi.com/zh), China
-- *2023.10 - 2025.05*, [Shanghai AI Laboratory](https://www.shlab.org.cn/), China.
 - *2021.06 - 2021.09*, [World Heritage Institute of Training and Research for the Asia and the Pacific Region under the auspices of UNESCO](http://www.whitr-ap.org/), China.
 
 
