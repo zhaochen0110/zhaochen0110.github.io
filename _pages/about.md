@@ -307,23 +307,22 @@ function showFullPubs() {
   <div class="timeline-item current">
     <div class="timeline-date">2025.08 - Present</div>
     <div class="timeline-title"><a href="https://www.kimi.com/zh">Kimi (Moonshot AI)</a></div>
-    <div class="timeline-desc"><strong>Agent Research Intern</strong> · Beijing, China · Onsite</div>
+    <div class="timeline-desc"><strong>Agent Research Intern</strong></div>
     <div class="timeline-desc">Contribute to Kimi-K2 Thinking, K2.5, K2.6.</div>
   </div>
   <div class="timeline-item">
     <div class="timeline-date">2025.06 - 2025.09</div>
     <div class="timeline-title">MiniMax</div>
-    <div class="timeline-desc"><strong>Posttrain Team Intern</strong> · Shanghai, China · Onsite</div>
+    <div class="timeline-desc"><strong>Posttrain Team Intern</strong></div>
     <div class="timeline-desc">Contribute to MiniMax-M2.</div>
   </div>
   <div class="timeline-item">
     <div class="timeline-date">2023.11 - 2025.04</div>
     <div class="timeline-title">Shanghai AI Laboratory</div>
-    <div class="timeline-desc"><strong>Research Intern</strong> · Shanghai, China</div>
+    <div class="timeline-desc"><strong>Research Intern</strong></div>
   </div>
 </div>
 
 # 🎨 Miscellaneous
 I’m passionate about photography, philosophy, and sports. Staying active is a daily priority for me — some of my go-to activities include 🏋️ fitness, 🏓 table tennis, 🎾 tennis, 🏃 running, 🚴 cycling, and 🥾 hiking. I love the challenge of pushing my limits and exploring the outdoors. If you’re into fitness too, feel free to reach out to me, and let’s keep each other motivated!
-
 
