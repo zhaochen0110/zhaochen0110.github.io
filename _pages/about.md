@@ -17,17 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I am Zhaochen Su (苏肇辰), a first-year PhD student co-supervised by [Prof. Junxian He](https://jxhe.github.io/) and [Prof. May Fung](https://mayrfung.github.io/) at the Hong Kong University of Science and Technology (HKUST).
+Hi, I am Zhaochen Su (苏肇辰), a Ph.D. student at the Hong Kong University of Science and Technology (HKUST), co-advised by [Prof. Junxian He](https://jxhe.github.io/) and [Prof. May Fung](https://mayrfung.github.io/).
 
-I obtained my Bachelor's and Master's degrees from Soochow University, advised by [Prof. Juntao Li](https://lijuntaopku.github.io/) and [Prof. Min Zhang](https://zhangmin-nlp-ai.github.io/).
-
-💼 On the industry side, I am currently an **Agent Research Intern at [Kimi (Moonshot AI)](https://www.kimi.com)**, contributing to **Kimi K2 Thinking, K2.5, and K2.6**. Before that, I worked with the post-training team at **[MiniMax](https://www.minimax.io)**, contributing to **MiniMax-M2**, and spent over a year as a research intern at **Shanghai AI Laboratory**.
-
-🧠 In the era of generative AI, I am passionate about understanding knowledge and reasoning in LLM/LVLM. My work has explored the mechanisms of model knowledge (ConflictBank), the adaptation to time-sensitive knowledge (LMLM, SG-TLM), and universal temporal reasoning (CotempoQA, Timo).
-
-🤖 Now, in the era of agentic AI, I am highly interested in the next generation of multimodal agent models. My research focuses on building human-like think-act agents with rich multimodal tool use (OpenThinkIMG), advancing realistic and challenging evaluation benchmarks (AgentVista), and enabling continual self-improvement through experience and skill learning (XSkill).
-
-📖 *Can the progress of civilization, and the advancement of technology truly transcend time? Or are we just endlessly pursuing the elusive dust in the hourglass?* — Just some of my thoughts.
+💼 I am currently an **Agent Research Intern at [Kimi (Moonshot AI)](https://www.kimi.com)**, contributing to **Kimi K2 Thinking, K2.5, and K2.6**. Before that, I worked with the post-training team at **[MiniMax](https://www.minimax.io)** on **MiniMax-M2**, and was a research intern at **Shanghai AI Laboratory**.
 
 # 🔥 News
 
