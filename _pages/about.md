@@ -21,6 +21,8 @@ Hi, I am Zhaochen Su (苏肇辰), a first-year PhD student co-supervised by [Pro
 
 I obtained my Bachelor's and Master's degrees from Soochow University, advised by [Prof. Juntao Li](https://lijuntaopku.github.io/) and [Prof. Min Zhang](https://zhangmin-nlp-ai.github.io/).
 
+💼 On the industry side, I am currently an **Agent Research Intern at [Kimi (Moonshot AI)](https://www.kimi.com)**, contributing to **Kimi K2 Thinking, K2.5, and K2.6**. Before that, I worked with the post-training team at **[MiniMax](https://www.minimax.io)**, contributing to **MiniMax-M2**, and spent over a year as a research intern at **Shanghai AI Laboratory**.
+
 🧠 In the era of generative AI, I am passionate about understanding knowledge and reasoning in LLM/LVLM. My work has explored the mechanisms of model knowledge (ConflictBank), the adaptation to time-sensitive knowledge (LMLM, SG-TLM), and universal temporal reasoning (CotempoQA, Timo).
 
 🤖 Now, in the era of agentic AI, I am highly interested in the next generation of multimodal agent models. My research focuses on building human-like think-act agents with rich multimodal tool use (OpenThinkIMG), advancing realistic and challenging evaluation benchmarks (AgentVista), and enabling continual self-improvement through experience and skill learning (XSkill).
@@ -174,10 +176,33 @@ I obtained my Bachelor's and Master's degrees from Soochow University, advised b
 - \[02/2026\] 🎉🎉 We released [AgentVista](https://arxiv.org/pdf/2602.23166), the first benchmark for **multimodal agents** on realistic, ultra-challenging visual scenarios requiring long-horizon hybrid tool use.
 - \[02/2026\] 🎉🎉 Kimi K2.5 tech report has been released. [arXiv](https://arxiv.org/abs/2602.02276)
 - \[01/2026\] 🎉🎉 Three papers are accepted by ICLR 2026, and one paper is accepted by TACL.
+- \[08/2025\] 💼 I joined [Kimi (Moonshot AI)](https://www.kimi.com) as an Agent Research Intern, contributing to the Kimi K2 model series.
 - \[07/2025\] 🎉🎉 Check out our new [survey](https://arxiv.org/pdf/2506.23918), the first survey on the reasoning paradigm shift from "Think with Text" to "Think with Image" (1k+🌟 on GitHub)!
 - \[05/2025\] 🎉🎉 Check out our new project [OpenThinkIMG](https://arxiv.org/pdf/2505.08617), the first end-to-end open-source framework that empowers LVLMs to think with images (300+🌟 on GitHub)!
 - \[01/2025\] 🎉🎉 Check out our new paper [PRMBench](https://arxiv.org/pdf/2501.03124), the first process-level reward benchmark!
 
+</div>
+
+# 💼 Experience
+
+<div class="timeline">
+  <div class="timeline-item current">
+    <div class="timeline-date">2025.08 - Present</div>
+    <div class="timeline-title"><a href="https://www.kimi.com">Kimi (Moonshot AI)</a></div>
+    <div class="timeline-desc"><strong>Agent Research Intern</strong></div>
+    <div class="timeline-desc">Contribute to <strong>Kimi K2 Thinking</strong>, <strong>K2.5</strong> (<a href="https://arxiv.org/abs/2602.02276">tech report</a>), and <strong>K2.6</strong>.</div>
+  </div>
+  <div class="timeline-item">
+    <div class="timeline-date">2025.06 - 2025.09</div>
+    <div class="timeline-title"><a href="https://www.minimax.io">MiniMax</a></div>
+    <div class="timeline-desc"><strong>Post-training Team Intern</strong></div>
+    <div class="timeline-desc">Contribute to <strong><a href="https://github.com/MiniMax-AI/MiniMax-M2">MiniMax-M2</a></strong>.</div>
+  </div>
+  <div class="timeline-item">
+    <div class="timeline-date">2023.11 - 2025.04</div>
+    <div class="timeline-title"><a href="https://www.shlab.org.cn/">Shanghai AI Laboratory</a></div>
+    <div class="timeline-desc"><strong>Research Intern</strong></div>
+  </div>
 </div>
 
 # 📝 Publications (* denotes equal contribution) <a href='https://scholar.google.com/citations?user=ponDXAYAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
@@ -300,28 +325,6 @@ function showFullPubs() {
 - **Reviewer:** COLM-25, ICLR-25, NeurIPS-25, ARR-24, EMNLP-24, MM-24, ACL-24, COLM-24
 - *2023.09 - 2024.12*, Soochow University Graduate Student Union - **President**
 - *2020.05 - 2021.05*, Students’ International Communication Association (SICA) - **President**
-
-# 💻 Internships
-
-<div class="timeline">
-  <div class="timeline-item current">
-    <div class="timeline-date">2025.08 - Present</div>
-    <div class="timeline-title"><a href="https://www.kimi.com/zh">Kimi (Moonshot AI)</a></div>
-    <div class="timeline-desc"><strong>Agent Research Intern</strong></div>
-    <div class="timeline-desc">Contribute to Kimi-K2 Thinking, K2.5, K2.6.</div>
-  </div>
-  <div class="timeline-item">
-    <div class="timeline-date">2025.06 - 2025.09</div>
-    <div class="timeline-title">MiniMax</div>
-    <div class="timeline-desc"><strong>Posttrain Team Intern</strong></div>
-    <div class="timeline-desc">Contribute to MiniMax-M2.</div>
-  </div>
-  <div class="timeline-item">
-    <div class="timeline-date">2023.11 - 2025.04</div>
-    <div class="timeline-title">Shanghai AI Laboratory</div>
-    <div class="timeline-desc"><strong>Research Intern</strong></div>
-  </div>
-</div>
 
 # 🎨 Miscellaneous
 I’m passionate about photography, philosophy, and sports. Staying active is a daily priority for me — some of my go-to activities include 🏋️ fitness, 🏓 table tennis, 🎾 tennis, 🏃 running, 🚴 cycling, and 🥾 hiking. I love the challenge of pushing my limits and exploring the outdoors. If you’re into fitness too, feel free to reach out to me, and let’s keep each other motivated!
