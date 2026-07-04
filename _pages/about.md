@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: >
   Ph.D. student @ <a href="https://hkust.edu.hk/">HKUST</a> · Agent Research Intern @ <a href="https://www.kimi.com/">Kimi (Moonshot AI)</a>
@@ -28,13 +28,13 @@ Hi, welcome! I am Zhaochen Su (苏肇辰), a Ph.D. student at the Hong Kong Univ
 
 I am currently an **Agent Research Intern at [Kimi (Moonshot AI)](https://www.kimi.com/)**, contributing to **Kimi K2 Thinking, K2.5, K2.6, and K2.7**. Before that, I worked with the post-training team at [MiniMax](https://www.minimax.io/), contributing to **MiniMax-M2**, and was a research intern at Shanghai AI Laboratory.
 
-#### experience
+#### Experience
 
 - **Kimi (Moonshot AI)** · Agent Research Intern <span style="float:right; color:#828282;">2025.08 – present</span><br>Kimi K2 Thinking, K2.5, K2.6, and K2.7
 - **MiniMax** · Post-training Team Intern <span style="float:right; color:#828282;">2025.06 – 2025.09</span><br>MiniMax-M2
 - **Shanghai AI Laboratory** · Research Intern <span style="float:right; color:#828282;">2023.11 – 2025.04</span>
 
-#### service
+#### Service
 
 **Area Chair**: NeurIPS 2026, ACL 2026, ACL 2025, EMNLP 2025<br>
 **Reviewer**: ICLR, NeurIPS, COLM, ACL, EMNLP, ARR, MM, ACM Computing Surveys
