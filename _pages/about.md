@@ -100,6 +100,20 @@ Hi, I am Zhaochen Su (苏肇辰), a Ph.D. student at the Hong Kong University of
 .pub-item p {
   margin-bottom: 0.42em;
 }
+.pub-badges {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+.pub-badges img {
+  vertical-align: middle;
+}
+.pub-badges .show_paper_citations {
+  font-size: 13px;
+  font-weight: 600;
+  color: #666;
+}
 .timeline {
   position: relative;
   padding-left: 24px;
@@ -164,6 +178,8 @@ Hi, I am Zhaochen Su (苏肇辰), a Ph.D. student at the Hong Kong University of
 
 <div class="news-container" markdown="1">
 
+- \[05/2026\] 🎉🎉 [XSkill](https://arxiv.org/pdf/2603.12056) is accepted by **ICML 2026**!
+- \[05/2026\] 💼 The [MiniMax-M2 series tech report](https://arxiv.org/abs/2605.26494) has been released.
 - \[03/2026\] 🎉🎉 We released [XSkill](https://arxiv.org/pdf/2603.12056), the first dual-stream framework that enables multimodal agents to continually learn from experience and skills without parameter updates.
 - \[02/2026\] 🎉🎉 We released [AgentVista](https://arxiv.org/pdf/2602.23166), the first benchmark for **multimodal agents** on realistic, ultra-challenging visual scenarios requiring long-horizon hybrid tool use.
 - \[02/2026\] 🎉🎉 Kimi K2.5 tech report has been released. [arXiv](https://arxiv.org/abs/2602.02276)
@@ -208,7 +224,17 @@ Hi, I am Zhaochen Su (苏肇辰), a Ph.D. student at the Hong Kong University of
 
 <div class="pub-item" markdown="1">
 
-``arXiv 26.03`` [XSkill: Continual Learning from Experience and Skills in Multimodal Agents](https://arxiv.org/pdf/2603.12056), Guanyu Jiang*, **Zhaochen Su***, Xiaoye Qu, Yi R. (May) Fung.
+``Tech Report`` [The MiniMax-M2 Series: Mini Activations Unleashing Max Real-World Intelligence](https://arxiv.org/abs/2605.26494), **MiniMax** (as a core contributor).
+
+<div class="pub-badges"><a href="https://github.com/MiniMax-AI/MiniMax-M2"><img src="https://img.shields.io/github/stars/MiniMax-AI/MiniMax-M2?style=social&label=Stars"></a> <span class='show_paper_citations' data='ponDXAYAAAAJ:dfsIfKJdRG4C'></span></div>
+
+</div>
+
+<div class="pub-item" markdown="1">
+
+``ICML 2026`` [XSkill: Continual Learning from Experience and Skills in Multimodal Agents](https://arxiv.org/pdf/2603.12056), Guanyu Jiang*, **Zhaochen Su***, Xiaoye Qu, Yi R. (May) Fung.
+
+<div class="pub-badges"><span class='show_paper_citations' data='ponDXAYAAAAJ:lSLTfruPkqcC'></span></div>
 
 </div>
 
@@ -216,11 +242,23 @@ Hi, I am Zhaochen Su (苏肇辰), a Ph.D. student at the Hong Kong University of
 
 ``arXiv 26.02`` [AgentVista: Evaluating Multimodal Agents in Ultra-Challenging Realistic Visual Scenarios](https://arxiv.org/pdf/2602.23166), **Zhaochen Su**, Jincheng Gao, Hangyu Guo, Zhenhua Liu, Lueyang Zhang, Xinyu Geng, Shijue Huang, Peng Xia, Guanyu Jiang, Cheng Wang, Yue Zhang, Yi R. (May) Fung, Junxian He.
 
+<div class="pub-badges"><a href="https://github.com/hkust-nlp/AgentVista"><img src="https://img.shields.io/github/stars/hkust-nlp/AgentVista?style=social&label=Stars"></a> <span class='show_paper_citations' data='ponDXAYAAAAJ:J_g5lzvAfSwC'></span></div>
+
+</div>
+
+<div class="pub-item" markdown="1">
+
+``ICLR 2026`` [The Tool Decathlon: Benchmarking Language Agents for Diverse, Realistic, and Long-Horizon Task Execution](https://arxiv.org/abs/2510.25726), Junlong Li, Wenshuo Zhao, Jian Zhao, Weihao Zeng, Haoze Wu, Xiaochen Wang, Rui Ge, Yuxuan Cao, Yuzhen Huang, Wei Liu, Junteng Liu, **Zhaochen Su**, Yiyang Guo, Fan Zhou, Lueyang Zhang, Juan Michelini, Xingyao Wang, Xiang Yue, Shuyan Zhou, Graham Neubig, Junxian He.
+
+<div class="pub-badges"><a href="https://github.com/hkust-nlp/Toolathlon"><img src="https://img.shields.io/github/stars/hkust-nlp/Toolathlon?style=social&label=Stars"></a> <span class='show_paper_citations' data='ponDXAYAAAAJ:TFP_iSt0sucC'></span></div>
+
 </div>
 
 <div class="pub-item" markdown="1">
 
 ``arXiv 25.07`` [Thinking with Images for Multimodal Reasoning: Foundations, Methods, and Future Frontiers](https://arxiv.org/pdf/2506.23918), **Zhaochen Su**, Peng Xia, Hangyu Guo, Zhenhua Liu, Yan Ma, Xiaoye Qu, Jiaqi Liu, Yanshu Li, Kaide Zeng, Zhengyuan Yang, Linjie Li, Yu Cheng, Heng Ji, Junxian He, Yi R. Fung.
+
+<div class="pub-badges"><a href="https://github.com/zhaochen0110/Awesome_Think_With_Images"><img src="https://img.shields.io/github/stars/zhaochen0110/Awesome_Think_With_Images?style=social&label=Stars"></a> <span class='show_paper_citations' data='ponDXAYAAAAJ:9ZlFYXVOiuMC'></span></div>
 
 </div>
 
@@ -228,11 +266,15 @@ Hi, I am Zhaochen Su (苏肇辰), a Ph.D. student at the Hong Kong University of
 
 ``arXiv 25.05`` [OpenThinkIMG: Learning to Think with Images via Visual Tool Reinforcement Learning](https://arxiv.org/pdf/2505.08617), **Zhaochen Su**, Linjie Li, Mingyang Song, Yunzhuo Hao, Zhengyuan Yang, Jun Zhang, Guanjie Chen, Jiawei Gu, Juntao Li, Xiaoye Qu, Yu Cheng.
 
+<div class="pub-badges"><a href="https://github.com/zhaochen0110/OpenThinkIMG"><img src="https://img.shields.io/github/stars/zhaochen0110/OpenThinkIMG?style=social&label=Stars"></a> <span class='show_paper_citations' data='ponDXAYAAAAJ:Wp0gIr-vW9MC'></span></div>
+
 </div>
 
 <div class="pub-item full-only" markdown="1">
 
 ``ICLR 2026`` [GRACE: Generative Representation Learning via Contrastive Policy Optimization](https://arxiv.org/pdf/2510.04506), Jiashuo Sun, Shixuan Liu, **Zhaochen Su**, Xianrui Zhong, Pengcheng Jiang, Bowen Jin, Peiran Li, Weijia Shi, Jiawei Han.
+
+<div class="pub-badges"><span class='show_paper_citations' data='ponDXAYAAAAJ:35N4QoGY0k4C'></span></div>
 
 </div>
 
@@ -240,11 +282,15 @@ Hi, I am Zhaochen Su (苏肇辰), a Ph.D. student at the Hong Kong University of
 
 ``ICLR 2026`` [Advancing Multimodal Reasoning: From Optimized Cold Start to Staged Reinforcement Learning](https://arxiv.org/pdf/2506.04207), Shuang Chen, Yue Guo, **Zhaochen Su**, Yafu Li, Yulun Wu, Jiacheng Chen, Jiayu Chen, Weijie Wang, Xiaoye Qu, Yu Cheng.
 
+<div class="pub-badges"><span class='show_paper_citations' data='ponDXAYAAAAJ:mVmsd5A6BfQC'></span></div>
+
 </div>
 
 <div class="pub-item" markdown="1">
 
 ``ACL 2025`` [PRMBench: A Fine-grained and Challenging Benchmark for Process-Level Reward Models](https://arxiv.org/pdf/2501.03124), Mingyang Song, **Zhaochen Su**, Xiaoye Qu, Jiawei Zhou, Yu Cheng.
+
+<div class="pub-badges"><span class='show_paper_citations' data='ponDXAYAAAAJ:Tyk-4Ss8FVUC'></span></div>
 
 </div>
 
@@ -252,11 +298,15 @@ Hi, I am Zhaochen Su (苏肇辰), a Ph.D. student at the Hong Kong University of
 
 ``NeurIPS 2024`` [ConflictBank: A Benchmark for Evaluating Knowledge Conflicts in Large Language Models](https://arxiv.org/pdf/2408.12076), **Zhaochen Su**, Jun Zhang, Xiaoye Qu, Tong Zhu, Yanshu Li, Jiashuo Sun, Juntao Li, Min Zhang, Yu Cheng.
 
+<div class="pub-badges"><a href="https://github.com/zhaochen0110/conflictbank"><img src="https://img.shields.io/github/stars/zhaochen0110/conflictbank?style=social&label=Stars"></a> <span class='show_paper_citations' data='ponDXAYAAAAJ:UeHWp8X0CEIC'></span></div>
+
 </div>
 
 <div class="pub-item" markdown="1">
 
 ``COLM 2024`` [Timo: Towards Better Temporal Reasoning for Language Models](https://arxiv.org/pdf/2406.14192), **Zhaochen Su**, Jun Zhang, Tong Zhu, Xiaoye Qu, Juntao Li, Min Zhang, Yu Cheng.
+
+<div class="pub-badges"><a href="https://github.com/zhaochen0110/Timo"><img src="https://img.shields.io/github/stars/zhaochen0110/Timo?style=social&label=Stars"></a> <span class='show_paper_citations' data='ponDXAYAAAAJ:qjMakFHDy7sC'></span></div>
 
 </div>
 
@@ -264,11 +314,15 @@ Hi, I am Zhaochen Su (苏肇辰), a Ph.D. student at the Hong Kong University of
 
 ``ACL 2024 oral`` [Living in the Moment: Can Large Language Models Grasp Co-Temporal Reasoning?](https://arxiv.org/pdf/2406.09072), **Zhaochen Su**, Juntao Li, Jun Zhang, Tong Zhu, Xiaoye Qu, Pan Zhou, Yan Bowen, Yu Cheng, Min Zhang.
 
+<div class="pub-badges"><a href="https://github.com/zhaochen0110/Cotempqa"><img src="https://img.shields.io/github/stars/zhaochen0110/Cotempqa?style=social&label=Stars"></a> <span class='show_paper_citations' data='ponDXAYAAAAJ:2osOgNQ5qMEC'></span></div>
+
 </div>
 
 <div class="pub-item full-only" markdown="1">
 
 ``EMNLP 2024`` [SURf: Teaching Large Vision-Language Models to Selectively Utilize Retrieved Information](https://arxiv.org/pdf/2409.14083), Jiashuo Sun, Jihai Zhang, Yucheng Zhou, **Zhaochen Su**, Xiaoye Qu, Yu Cheng.
+
+<div class="pub-badges"><span class='show_paper_citations' data='ponDXAYAAAAJ:IjCSPb-OGe4C'></span></div>
 
 </div>
 
@@ -276,11 +330,15 @@ Hi, I am Zhaochen Su (苏肇辰), a Ph.D. student at the Hong Kong University of
 
 ``EMNLP 2023`` [Efficient Continue Training of Temporal Language Model with Structural Information](https://aclanthology.org/2023.findings-emnlp.418.pdf), **Zhaochen Su**, Juntao Li, Zikang Zhang, Zihan Zhou, Min Zhang.
 
+<div class="pub-badges"><span class='show_paper_citations' data='ponDXAYAAAAJ:9yKSN-GCB0IC'></span></div>
+
 </div>
 
 <div class="pub-item" markdown="1">
 
 ``EMNLP 2022`` [Improving Temporal Generalization of Pre-trained Language Models with Lexical Semantic Change](https://aclanthology.org/2022.emnlp-main.428.pdf), **Zhaochen Su**, Zecheng Tang, Xinyan Guan, Lijun Wu, Min Zhang, Juntao Li.
+
+<div class="pub-badges"><span class='show_paper_citations' data='ponDXAYAAAAJ:u-x6o8ySG0sC'></span></div>
 
 </div>
 
