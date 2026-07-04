@@ -36,4 +36,5 @@ I am currently an **Agent Research Intern at [Kimi (Moonshot AI)](https://www.ki
 
 #### service
 
-**Area Chair**: NeurIPS 2026, ACL 2026, ACL 2025, EMNLP 2025 · **Reviewer**: ICLR, NeurIPS, COLM, ACL, EMNLP, ARR, MM, ACM Computing Surveys
+**Area Chair**: NeurIPS 2026, ACL 2026, ACL 2025, EMNLP 2025<br>
+**Reviewer**: ICLR, NeurIPS, COLM, ACL, EMNLP, ARR, MM, ACM Computing Surveys
