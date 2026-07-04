@@ -19,7 +19,7 @@ ninja.data = [{
         },{id: "news-check-out-prmbench-the-first-process-level-reward-benchmark-sparkles",
           title: 'Check out PRMBench, the first process-level reward benchmark! :sparkles:',
           description: "",
-          section: "News",},{id: "news-we-released-openthinkimg-the-first-end-to-end-open-source-framework-that-empowers-lvlms-to-think-with-images-400-star-on-github",
+          section: "News",},{id: "news-we-released-openthinkimg-the-first-end-to-end-open-source-framework-that-empowers-lvlms-to-think-with-images-390-star-on-github",
           title: 'We released OpenThinkIMG, the first end-to-end open-source framework that empowers LVLMs to think...',
           description: "",
           section: "News",},{id: "news-check-out-our-survey-on-the-reasoning-paradigm-shift-from-think-with-text-to-think-with-image-1-4k-star-on-github",
