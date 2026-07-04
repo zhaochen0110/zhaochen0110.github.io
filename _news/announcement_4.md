@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:briefcase: I joined [Kimi (Moonshot AI)](https://www.kimi.com/) as an Agent Research Intern, contributing to the Kimi K2 model series.
+:briefcase: I joined [Kimi (Moonshot AI)](https://www.kimi.com/) as an Agent Research Intern.
