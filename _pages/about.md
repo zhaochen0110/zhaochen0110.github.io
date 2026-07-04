@@ -34,12 +34,6 @@ I am currently an **Agent Research Intern at [Kimi (Moonshot AI)](https://www.ki
 - **MiniMax** · Post-training Team Intern <span style="float:right; color:#828282;">2025.06 – 2025.09</span><br>MiniMax-M2
 - **Shanghai AI Laboratory** · Research Intern <span style="float:right; color:#828282;">2023.11 – 2025.04</span>
 
-#### education
-
-- **Ph.D.**, Computer Science & Engineering, HKUST <span style="float:right; color:#828282;">2025 – present</span>
-- **M.Eng.**, Soochow University, advised by [Prof. Juntao Li](https://lijuntaopku.github.io/) and [Prof. Min Zhang](https://zhangmin-nlp-ai.github.io/) <span style="float:right; color:#828282;">2022 – 2025</span>
-- **B.Eng.**, Computer Science, Soochow University <span style="float:right; color:#828282;">2018 – 2022</span>
-
 #### service
 
-**Area Chair**: ACL 2026, ACL 2025, EMNLP 2025 · **Reviewer**: ICLR, NeurIPS, COLM, ACL, EMNLP, ARR, MM
+**Area Chair**: NeurIPS 2026, ACL 2026, ACL 2025, EMNLP 2025 · **Reviewer**: ICLR, NeurIPS, COLM, ACL, EMNLP, ARR, MM, ACM Computing Surveys
