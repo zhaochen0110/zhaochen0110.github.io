@@ -1,0 +1,69 @@
+metadata:
+  last_updated: '2026-07-04'
+papers:
+  ponDXAYAAAAJ:2osOgNQ5qMEC:
+    citations: 38
+    title: 'Living in the Moment: Can Large Language Models Grasp Co-Temporal Reasoning?'
+  ponDXAYAAAAJ:35N4QoGY0k4C:
+    citations: 6
+    title: 'GRACE: Generative Representation Learning via Contrastive Policy Optimization'
+  ponDXAYAAAAJ:4DMP91E08xMC:
+    citations: 38
+    title: 'AdaCtrl: Towards Adaptive and Controllable Reasoning via Difficulty-Aware Budgeting'
+  ponDXAYAAAAJ:9ZlFYXVOiuMC:
+    citations: 186
+    title: 'Thinking with images for multimodal reasoning: Foundations, methods, and future frontiers'
+  ponDXAYAAAAJ:9yKSN-GCB0IC:
+    citations: 12
+    title: 'Efficient Continue Training of Temporal Language Model with Structural Information'
+  ponDXAYAAAAJ:IjCSPb-OGe4C:
+    citations: 20
+    title: 'SURf: Teaching Large Vision-Language Models to Selectively Utilize Retrieved Information'
+  ponDXAYAAAAJ:J_g5lzvAfSwC:
+    citations: 9
+    title: 'Agentvista: Evaluating multimodal agents in ultra-challenging realistic visual scenarios'
+  ponDXAYAAAAJ:KxtntwgDAa4C:
+    citations: 0
+    title: 'SkillRevise: Improving LLM-Authored Agent Skills via Trace-Conditioned Skill Revision'
+  ponDXAYAAAAJ:SeFeTyx0c_EC:
+    citations: 13
+    title: 'Can LLM Agents Use Tools Economically? Benchmarking Cost-Optimal Planning and Adaptive Replanning in Dynamic Environments'
+  ponDXAYAAAAJ:TFP_iSt0sucC:
+    citations: 51
+    title: 'The Tool Decathlon: Benchmarking Language Agents for Diverse, Realistic, and Long-Horizon Task Execution'
+  ponDXAYAAAAJ:Tyk-4Ss8FVUC:
+    citations: 103
+    title: 'PRMBench: A Fine-grained and Challenging Benchmark for Process-Level Reward Models'
+  ponDXAYAAAAJ:UeHWp8X0CEIC:
+    citations: 95
+    title: 'Conflictbank: A benchmark for evaluating the influence of knowledge conflicts in llm'
+  ponDXAYAAAAJ:Wp0gIr-vW9MC:
+    citations: 145
+    title: 'Openthinkimg: Learning to think with images via visual tool reinforcement learning'
+  ponDXAYAAAAJ:Y0pCki6q_DkC:
+    citations: 150
+    title: 'A survey of efficient reasoning for large reasoning models: Language, multimodality, and beyond'
+  ponDXAYAAAAJ:ZHo1McVdvXMC:
+    citations: 0
+    title: 'Towards On-Policy Data Evolution for Visual-Native Multimodal Deep Search Agents'
+  ponDXAYAAAAJ:dfsIfKJdRG4C:
+    citations: 19
+    title: 'The minimax-m2 series: Mini activations unleashing max real-world intelligence'
+  ponDXAYAAAAJ:e5wmG9Sq2KIC:
+    citations: 4
+    title: 'Iterative value function optimization for guided decoding'
+  ponDXAYAAAAJ:hMod-77fHWUC:
+    citations: 484
+    title: 'Kimi K2. 5: Visual Agentic Intelligence'
+  ponDXAYAAAAJ:lSLTfruPkqcC:
+    citations: 36
+    title: 'XSkill: Continual Learning from Experience and Skills in Multimodal Agents'
+  ponDXAYAAAAJ:mVmsd5A6BfQC:
+    citations: 49
+    title: 'Advancing Multimodal Reasoning: From Optimized Cold Start to Staged Reinforcement Learning'
+  ponDXAYAAAAJ:qjMakFHDy7sC:
+    citations: 45
+    title: 'Timo: Towards Better Temporal Reasoning for Language Models'
+  ponDXAYAAAAJ:u-x6o8ySG0sC:
+    citations: 34
+    title: 'Improving Temporal Generalization of Pre-trained Language Models with Lexical Semantic Change'
