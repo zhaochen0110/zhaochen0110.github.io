@@ -179,12 +179,11 @@ Hi, I am Zhaochen Su (苏肇辰), a Ph.D. student at the Hong Kong University of
 <div class="news-container" markdown="1">
 
 - \[05/2026\] 🎉🎉 [XSkill](https://arxiv.org/pdf/2603.12056) is accepted by **ICML 2026**!
-- \[05/2026\] 💼 The [MiniMax-M2 series tech report](https://arxiv.org/abs/2605.26494) has been released.
 - \[03/2026\] 🎉🎉 We released [XSkill](https://arxiv.org/pdf/2603.12056), the first dual-stream framework that enables multimodal agents to continually learn from experience and skills without parameter updates.
 - \[02/2026\] 🎉🎉 We released [AgentVista](https://arxiv.org/pdf/2602.23166), the first benchmark for **multimodal agents** on realistic, ultra-challenging visual scenarios requiring long-horizon hybrid tool use.
 - \[02/2026\] 🎉🎉 Kimi K2.5 tech report has been released. [arXiv](https://arxiv.org/abs/2602.02276)
 - \[01/2026\] 🎉🎉 Three papers are accepted by ICLR 2026, and one paper is accepted by TACL.
-- \[08/2025\] 💼 I joined [Kimi (Moonshot AI)](https://www.kimi.com) as an Agent Research Intern, contributing to the Kimi K2 model series.
+- \[08/2025\] 💼 I joined [Kimi (Moonshot AI)](https://www.kimi.com) as an Agent Research Intern.
 - \[07/2025\] 🎉🎉 Check out our new [survey](https://arxiv.org/pdf/2506.23918), the first survey on the reasoning paradigm shift from "Think with Text" to "Think with Image" (1k+🌟 on GitHub)!
 - \[05/2025\] 🎉🎉 Check out our new project [OpenThinkIMG](https://arxiv.org/pdf/2505.08617), the first end-to-end open-source framework that empowers LVLMs to think with images (300+🌟 on GitHub)!
 - \[01/2025\] 🎉🎉 Check out our new paper [PRMBench](https://arxiv.org/pdf/2501.03124), the first process-level reward benchmark!
@@ -224,7 +223,7 @@ Hi, I am Zhaochen Su (苏肇辰), a Ph.D. student at the Hong Kong University of
 
 <div class="pub-item" markdown="1">
 
-``Tech Report`` [The MiniMax-M2 Series: Mini Activations Unleashing Max Real-World Intelligence](https://arxiv.org/abs/2605.26494), **MiniMax** (as a core contributor).
+``Tech Report`` [The MiniMax-M2 Series: Mini Activations Unleashing Max Real-World Intelligence](https://arxiv.org/abs/2605.26494), **MiniMax**.
 
 <div class="pub-badges"><a href="https://github.com/MiniMax-AI/MiniMax-M2"><img src="https://img.shields.io/github/stars/MiniMax-AI/MiniMax-M2?style=social&label=Stars"></a> <span class='show_paper_citations' data='ponDXAYAAAAJ:dfsIfKJdRG4C'></span></div>
 
