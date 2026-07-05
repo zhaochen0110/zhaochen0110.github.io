@@ -28,6 +28,8 @@ Hi, welcome! I am Zhaochen Su (苏肇辰), a Ph.D. student at the Hong Kong Univ
 
 I am currently an **Agent Research Intern at [Kimi (Moonshot AI)](https://www.kimi.com/)**, contributing to **Kimi K2 Thinking, K2.5, K2.6, and K2.7**. Before that, I worked with the post-training team at [MiniMax](https://www.minimax.io/), contributing to **MiniMax-M2**, and was a research intern at Shanghai AI Laboratory.
 
+My recent research focuses on **long-horizon agents** and **AI for quant**. If you are interested in collaboration, feel free to reach out!
+
 #### Experience
 
 - **Kimi (Moonshot AI)** · Agent Research Intern <span style="float:right; color:#828282;">2025.08 – present</span><br>Kimi K2 Thinking, K2.5, K2.6, and K2.7
