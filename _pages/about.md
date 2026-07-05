@@ -31,7 +31,7 @@ I am currently an **Agent Research Intern at [Kimi (Moonshot AI)](https://www.ki
 #### Experience
 
 - **Kimi (Moonshot AI)** · Agent Research Intern <span style="float:right; color:#828282;">2025.08 – present</span><br>Kimi K2 Thinking, K2.5, K2.6, and K2.7
-- **MiniMax** · Post-training Team Intern <span style="float:right; color:#828282;">2025.06 – 2025.09</span><br>MiniMax-M2
+- **MiniMax** · Post-training Team Intern <span style="float:right; color:#828282;">2025.06 – 2025.08</span><br>MiniMax-M2
 - **Shanghai AI Laboratory** · Research Intern <span style="float:right; color:#828282;">2023.11 – 2025.04</span>
 
 #### Service
