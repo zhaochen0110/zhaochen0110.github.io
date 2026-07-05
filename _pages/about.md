@@ -24,7 +24,7 @@ latest_posts:
   enabled: false
 ---
 
-Hi, welcome! I am Zhaochen Su (苏肇辰), a Ph.D. student at the Hong Kong University of Science and Technology (HKUST), co-advised by [Prof. Junxian He](https://jxhe.github.io/) and [Prof. May Fung](https://mayrfung.github.io/).
+Hi, welcome! I am Zhaochen Su (苏肇辰), a Ph.D. student at the Hong Kong University of Science and Technology (HKUST), co-advised by [Prof. Junxian He](https://jxhe.github.io/) and [Prof. Yi R. (May) Fung](https://mayrfung.github.io/).
 
 I am currently an **Agent Research Intern at [Kimi (Moonshot AI)](https://www.kimi.com/)**, contributing to **Kimi K2 Thinking, K2.5, K2.6, and K2.7**. Before that, I worked with the post-training team at [MiniMax](https://www.minimax.io/), contributing to **MiniMax-M2**, and was a research intern at Shanghai AI Laboratory.
 
@@ -36,5 +36,5 @@ I am currently an **Agent Research Intern at [Kimi (Moonshot AI)](https://www.ki
 
 #### Service
 
-**Area Chair**: NeurIPS 2026, ACL 2026, ACL 2025, EMNLP 2025<br>
-**Reviewer**: ICLR, NeurIPS, COLM, ACL, EMNLP, ARR, MM, ACM Computing Surveys
+- **Area Chair**: NeurIPS 2026, ACL 2026, ACL 2025, EMNLP 2025<br>
+- **Reviewer**: ICLR, NeurIPS, COLM, ACL, EMNLP, ARR, MM, ACM Computing Surveys
