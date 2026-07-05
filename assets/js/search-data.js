@@ -40,8 +40,8 @@ ninja.data = [{
           section: "News",},{id: "news-we-released-xskill-a-dual-stream-framework-enabling-multimodal-agents-to-continually-learn-from-experience-and-skills-without-parameter-updates",
           title: 'We released XSkill, a dual-stream framework enabling multimodal agents to continually learn from...',
           description: "",
-          section: "News",},{id: "news-tada-xskill-is-accepted-by-icml-2026",
-          title: ':tada: XSkill is accepted by ICML 2026!',
+          section: "News",},{id: "news-tada-xskill-is-accepted-by-icml-2026-and-two-papers-are-accepted-by-acl-2026",
+          title: ':tada: XSkill is accepted by ICML 2026, and two papers are accepted by...',
           description: "",
           section: "News",},{
         id: 'social-email',
