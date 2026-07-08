@@ -43,6 +43,9 @@ ninja.data = [{
           section: "News",},{id: "news-tada-xskill-is-accepted-by-icml-2026-and-two-papers-are-accepted-by-acl-2026",
           title: ':tada: XSkill is accepted by ICML 2026, and two papers are accepted by...',
           description: "",
+          section: "News",},{id: "news-tada-iterative-value-refinement-ivr-receives-the-outstanding-paper-award-at-acl-2026",
+          title: ':tada: Iterative Value Refinement (IVR) receives the Outstanding Paper Award at ACL 2026!...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
