@@ -26,7 +26,7 @@ latest_posts:
 
 Hi, welcome! I am Zhaochen Su (苏肇辰), a Ph.D. student at the Hong Kong University of Science and Technology (HKUST), co-advised by [Prof. Junxian He](https://jxhe.github.io/) and [Prof. Yi R. (May) Fung](https://mayrfung.github.io/).
 
-I am currently building long-horizon general tool-use agents at [Kimi (Moonshot AI)](https://www.kimi.com/)**, contributing to **Kimi K2 Thinking, K2.5, K2.6, and K2.7**. Before that, I worked with the post-training team at [MiniMax](https://www.minimax.io/), contributing to **MiniMax-M2**, and was a research intern at Shanghai AI Laboratory.
+I am currently building long-horizon general tool-use agents at **[Kimi (Moonshot AI)](https://www.kimi.com/)**, contributing to **Kimi K2 Thinking, K2.5, K2.6, and K2.7**. Before that, I worked with the post-training team at [MiniMax](https://www.minimax.io/), contributing to **MiniMax-M2**, and was a research intern at Shanghai AI Laboratory.
 
 Besides that, I am also interested in **AI for quant**. If you are interested in collaboration, feel free to reach out!
 
