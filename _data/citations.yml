@@ -1,16 +1,16 @@
 metadata:
-  last_updated: '2026-07-17'
+  last_updated: '2026-07-29'
 papers:
   ponDXAYAAAAJ:2osOgNQ5qMEC:
     citations: 39
     title: 'Living in the Moment: Can Large Language Models Grasp Co-Temporal Reasoning?'
     year: '2024'
   ponDXAYAAAAJ:35N4QoGY0k4C:
-    citations: 8
+    citations: 9
     title: 'GRACE: Generative Representation Learning via Contrastive Policy Optimization'
     year: '2025'
   ponDXAYAAAAJ:4DMP91E08xMC:
-    citations: 40
+    citations: 39
     title: 'AdaCtrl: Towards Adaptive and Controllable Reasoning via Difficulty-Aware Budgeting'
     year: '2025'
   ponDXAYAAAAJ:738O_yMBCRsC:
@@ -18,7 +18,7 @@ papers:
     title: Towards On-Policy Data Evolution for Visual-Native Multimodal Deep Search Agents
     year: '2026'
   ponDXAYAAAAJ:9ZlFYXVOiuMC:
-    citations: 191
+    citations: 194
     title: 'Thinking with images for multimodal reasoning: Foundations, methods, and future frontiers'
     year: '2025'
   ponDXAYAAAAJ:9yKSN-GCB0IC:
@@ -30,7 +30,7 @@ papers:
     title: 'SURf: Teaching Large Vision-Language Models to Selectively Utilize Retrieved Information'
     year: '2024'
   ponDXAYAAAAJ:J_g5lzvAfSwC:
-    citations: 10
+    citations: 11
     title: 'Agentvista: Evaluating multimodal agents in ultra-challenging realistic visual scenarios'
     year: '2026'
   ponDXAYAAAAJ:KxtntwgDAa4C:
@@ -38,31 +38,31 @@ papers:
     title: 'SkillRevise: Improving LLM-Authored Agent Skills via Trace-Conditioned Skill Revision'
     year: '2026'
   ponDXAYAAAAJ:SeFeTyx0c_EC:
-    citations: 13
+    citations: 14
     title: Can LLM Agents Use Tools Economically? Benchmarking Cost-Optimal Planning and Adaptive Replanning in Dynamic Environments
     year: '2026'
   ponDXAYAAAAJ:TFP_iSt0sucC:
-    citations: 55
+    citations: 59
     title: 'The Tool Decathlon: Benchmarking Language Agents for Diverse, Realistic, and Long-Horizon Task Execution'
     year: '2025'
   ponDXAYAAAAJ:Tyk-4Ss8FVUC:
-    citations: 107
+    citations: 110
     title: 'PRMBench: A Fine-grained and Challenging Benchmark for Process-Level Reward Models'
     year: '2025'
   ponDXAYAAAAJ:UeHWp8X0CEIC:
-    citations: 96
+    citations: 101
     title: 'Conflictbank: A benchmark for evaluating the influence of knowledge conflicts in llm'
     year: '2024'
   ponDXAYAAAAJ:Wp0gIr-vW9MC:
-    citations: 150
+    citations: 153
     title: 'Openthinkimg: Learning to think with images via visual tool reinforcement learning'
     year: '2025'
   ponDXAYAAAAJ:Y0pCki6q_DkC:
-    citations: 155
+    citations: 156
     title: 'A survey of efficient reasoning for large reasoning models: Language, multimodality, and beyond'
     year: '2025'
   ponDXAYAAAAJ:dfsIfKJdRG4C:
-    citations: 21
+    citations: 24
     title: 'The minimax-m2 series: Mini activations unleashing max real-world intelligence'
     year: '2026'
   ponDXAYAAAAJ:e5wmG9Sq2KIC:
@@ -70,11 +70,15 @@ papers:
     title: Iterative value function optimization for guided decoding
     year: '2025'
   ponDXAYAAAAJ:hMod-77fHWUC:
-    citations: 515
+    citations: 559
     title: 'Kimi K2. 5: Visual Agentic Intelligence'
     year: '2026'
+  ponDXAYAAAAJ:l7t_Zn2s7bgC:
+    citations: 0
+    title: 'Data Foundations of Long-Context Language Models: A Survey'
+    year: '2026'
   ponDXAYAAAAJ:lSLTfruPkqcC:
-    citations: 37
+    citations: 38
     title: 'XSkill: Continual Learning from Experience and Skills in Multimodal Agents'
     year: '2026'
   ponDXAYAAAAJ:mVmsd5A6BfQC:
@@ -82,10 +86,10 @@ papers:
     title: 'Advancing Multimodal Reasoning: From Optimized Cold Start to Staged Reinforcement Learning'
     year: '2025'
   ponDXAYAAAAJ:qjMakFHDy7sC:
-    citations: 45
+    citations: 46
     title: 'Timo: Towards Better Temporal Reasoning for Language Models'
     year: '2024'
   ponDXAYAAAAJ:u-x6o8ySG0sC:
-    citations: 35
+    citations: 36
     title: Improving Temporal Generalization of Pre-trained Language Models with Lexical Semantic Change
     year: '2022'
