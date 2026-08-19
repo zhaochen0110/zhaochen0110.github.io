@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-17'
+  last_updated: '2026-08-19'
 papers:
   ponDXAYAAAAJ:2osOgNQ5qMEC:
     citations: 41
@@ -22,7 +22,7 @@ papers:
     title: 'Kimi k2. 6: Advancing open-source coding'
     year: '2026'
   ponDXAYAAAAJ:9ZlFYXVOiuMC:
-    citations: 209
+    citations: 210
     title: 'Thinking with images for multimodal reasoning: Foundations, methods, and future frontiers'
     year: '2025'
   ponDXAYAAAAJ:9yKSN-GCB0IC:
@@ -50,7 +50,7 @@ papers:
     title: 'PRMBench: A Fine-grained and Challenging Benchmark for Process-Level Reward Models'
     year: '2025'
   ponDXAYAAAAJ:UeHWp8X0CEIC:
-    citations: 109
+    citations: 110
     title: 'Conflictbank: A benchmark for evaluating the influence of knowledge conflicts in llm'
     year: '2024'
   ponDXAYAAAAJ:V3AGJWp-ZtQC:
@@ -74,11 +74,11 @@ papers:
     title: Iterative value function optimization for guided decoding
     year: '2025'
   ponDXAYAAAAJ:fQNAKQ3IYiAC:
-    citations: 20
+    citations: 22
     title: 'Kimi k3: Open frontier intelligence'
     year: '2026'
   ponDXAYAAAAJ:hMod-77fHWUC:
-    citations: 612
+    citations: 614
     title: 'Kimi K2. 5: Visual Agentic Intelligence'
     year: '2026'
   ponDXAYAAAAJ:lSLTfruPkqcC:
