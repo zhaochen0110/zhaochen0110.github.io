@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-08-19'
+  last_updated: '2026-08-21'
 papers:
   ponDXAYAAAAJ:2osOgNQ5qMEC:
     citations: 41
     title: 'Living in the Moment: Can Large Language Models Grasp Co-Temporal Reasoning?'
     year: '2024'
   ponDXAYAAAAJ:35N4QoGY0k4C:
-    citations: 11
+    citations: 12
     title: 'GRACE: Generative Representation Learning via Contrastive Policy Optimization'
     year: '2025'
   ponDXAYAAAAJ:4DMP91E08xMC:
@@ -50,7 +50,7 @@ papers:
     title: 'PRMBench: A Fine-grained and Challenging Benchmark for Process-Level Reward Models'
     year: '2025'
   ponDXAYAAAAJ:UeHWp8X0CEIC:
-    citations: 110
+    citations: 111
     title: 'Conflictbank: A benchmark for evaluating the influence of knowledge conflicts in llm'
     year: '2024'
   ponDXAYAAAAJ:V3AGJWp-ZtQC:
@@ -74,11 +74,11 @@ papers:
     title: Iterative value function optimization for guided decoding
     year: '2025'
   ponDXAYAAAAJ:fQNAKQ3IYiAC:
-    citations: 22
+    citations: 25
     title: 'Kimi k3: Open frontier intelligence'
     year: '2026'
   ponDXAYAAAAJ:hMod-77fHWUC:
-    citations: 614
+    citations: 616
     title: 'Kimi K2. 5: Visual Agentic Intelligence'
     year: '2026'
   ponDXAYAAAAJ:lSLTfruPkqcC:
